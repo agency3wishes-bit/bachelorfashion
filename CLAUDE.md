@@ -20,9 +20,14 @@ generic skill checklist on every point of conflict.
   labels (e.g. "2.1 Overview of Relevant Theories") are an editable placeholder skeleton
   — the template explicitly permits renaming and adding subheadings, so this thesis's
   more specific heading titles in `thesis/OUTLINE.md` are compliant, not a deviation.
-  **Citation style: not specified in the template** — a separate citation/notes document
-  is expected from the author; APA 7 is assumed provisionally (per `resources/approved_source_corpus.md`
-  formatting) until that document arrives and confirms or corrects this.
+  **Citation style: CONFIRMED as APA in-text** (2026-07-14), via a real exemplar thesis
+  by a colleague under the same supervisor (`resources/Pottosina_example_thesis.pdf`):
+  `(Author, Year)` / `(Author et al., Year)` / `(Author, Year, p. X)` for page-specific
+  claims, APA-formatted reference list presented as a numbered list in citation order.
+  A separately provided handwritten note describing a German "Vgl./footnote" citation
+  convention does NOT match this exemplar and is not used — see
+  `resources/citation_style_notes.md` for the full resolution. No rework needed on
+  drafted chapters; they were already written in this format.
 - **Method:** Qualitative comparative multiple-case study; document analysis;
   directed qualitative content analysis (deductive codebook)
 - **Cases:** H&M Group and Inditex, reporting years 2022–2025
