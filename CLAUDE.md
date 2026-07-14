@@ -6,10 +6,23 @@ generic skill checklist on every point of conflict.
 
 ## 1. Thesis context
 
+- **Institution:** Universität Wien (University of Vienna).
+  **Supervisor:** Dr. Aveed Raha. Submission: Vienna, July 2026.
 - **Working title:** Greenwashing and Environmental Communication in Fast Fashion:
   A Comparative Case Study of H&M Group and Inditex (2022–2025)
   *(working — confirm against institutional template)*
 - **Degree:** Bachelor's thesis, International Business
+- **Formatting (per official template, confirmed 2026-07-14):** Times New Roman 12pt;
+  1.5 line spacing; 1-inch margins on all sides; decimal-numbered headings (1, 1.1, 1.2 …)
+  matching the pattern already used in `thesis/OUTLINE.md`. Front matter: Title page →
+  Acknowledgments [voluntary] → Abstract (150–200 words) → Table of Contents → List of
+  Figures [if any] → List of Tables [if any]. The template's own chapter/subheading
+  labels (e.g. "2.1 Overview of Relevant Theories") are an editable placeholder skeleton
+  — the template explicitly permits renaming and adding subheadings, so this thesis's
+  more specific heading titles in `thesis/OUTLINE.md` are compliant, not a deviation.
+  **Citation style: not specified in the template** — a separate citation/notes document
+  is expected from the author; APA 7 is assumed provisionally (per `resources/approved_source_corpus.md`
+  formatting) until that document arrives and confirms or corrects this.
 - **Method:** Qualitative comparative multiple-case study; document analysis;
   directed qualitative content analysis (deductive codebook)
 - **Cases:** H&M Group and Inditex, reporting years 2022–2025

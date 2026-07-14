@@ -48,12 +48,25 @@ results → discussion → final introduction → conclusion → abstract → fu
 - **Haiku subagents:** 6 METH source cards (well-known methods papers, lighter
   extraction); mechanical consistency checks (references, tense, numbering).
 
+## Institutional template (received 2026-07-14 — Universität Wien Bachelor Thesis Template)
+
+Confirmed: Times New Roman 12pt, 1.5 line spacing, 1-inch margins, decimal-numbered
+headings, front matter order (Title → Acknowledgments [voluntary] → Abstract 150–200
+words → ToC → Lists of Figures/Tables if any). Supervisor: Dr. Aveed Raha. The
+template's own chapter/subheading labels are an explicitly editable skeleton ("update
+the heading titles according to your research... this table can be adjusted"), so
+`thesis/OUTLINE.md`'s more specific subheadings are compliant, not a deviation. No
+page/word limit is stated in the template itself (the ~35–40 page estimate in this
+plan remains our own working target, not an institutional rule). **Citation style is
+not specified in this document** — still pending the separate citation/notes document
+the author is sending; APA 7 remains provisional until then.
+
 ## Open questions for the author (blockers marked ⚠)
 
 1. ⚠ Exact verbatim RQ1 and RQ2 → paste into CLAUDE.md §1.
 2. ⚠ Codebook v1 (categories + operational definitions) → `research/coding/codebook_v1.md`.
-3. Institutional template (word limit, citation style, front-matter requirements) —
-   abstract 150–200 words already noted; confirm APA 7 and thesis language (English?).
+3. ⏳ Citation style + writing-conventions document (author is sending this) — will
+   confirm or correct the provisional APA 7 assumption and any other conventions.
 4. Article PDFs + 8 corporate report PDFs for page-precise evidence (see adaptation 2–3).
 5. Confirm availability/titles of FY2025 reports for both companies (H&M FY ends 30 Nov;
    Inditex FY ends 31 Jan — verify what the "2025" document actually is for each).
