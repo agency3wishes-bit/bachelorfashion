@@ -17,7 +17,7 @@ results → discussion → final introduction → conclusion → abstract → fu
 | 7 | Literature Review | ⏳ | `thesis/2_Literature_Review.md` |
 | 8 | Methodology (before coding) | ⏳ | `thesis/3_Methodology.md` |
 | 9 | Pilot coding → Codebook v2 | ✅ done | `research/coding/pilot_coding_report.md`, `research/coding/codebook_v2.md` |
-| 10 | Full coding (4 matrices) | ⏳ next | `research/coding/` |
+| 10 | Full coding (4 matrices) | ✅ done | `research/coding/HM_coding_matrix_2022-2025.md`, `research/coding/Inditex_coding_matrix_2022-2025.md`, `research/coding/cross_case_institutional_pressures.md`, `research/coding/cross_case_competitive_disclosure.md` |
 | 11 | Results | ⏳ | `thesis/4_Results.md` |
 | 12 | Discussion | ⏳ | `thesis/5_Discussion.md` |
 | 13 | Conclusion | ⏳ | `thesis/6_Conclusion.md` |
@@ -76,3 +76,16 @@ the author is sending; APA 7 remains provisional until then.
    / context documents").
 7. ⏳ `thesis/3_Methodology.md` §3.3 (Data Collection and Document Selection) still a
    stub — now unblockable since the corpus is complete.
+8. ⏳ Stage 10 full coding produced 237 rows (122 H&M, 115 Inditex) plus two
+   cross-case synthesis matrices — ready to underpin Ch.4 (Results). Notable
+   cross-case findings worth flagging to the author before Ch.4 drafting begins:
+   (a) a recurring DISPROPORTIONAL EMPHASIS pattern (scope 1+2 vs. scope 3 framing)
+   found in both companies in some years; (b) Inditex's "Living Wages" Priority
+   Impact Area reports zero wage-outcome metrics in all 4 coded years (2022–2025),
+   the strongest PROPRIETARY WITHHOLDING candidate in the corpus, now confirmed
+   across the full period, not just the FY2024 pilot sample; (c) H&M's Biodiversity
+   disclosure stays SYMBOLIC across all 4 years with no Group-wide quantified KPI,
+   while Inditex's becomes fully quantified from 2024; (d) by the 2025 report,
+   Inditex's own ESRS materiality assessment excludes "Affected Communities" as a
+   material topic entirely. See `research/coding/cross_case_institutional_pressures.md`
+   and `research/coding/cross_case_competitive_disclosure.md` for full detail.
