@@ -63,7 +63,7 @@ the author is sending; APA 7 remains provisional until then.
 
 ## Open questions for the author (blockers marked ⚠)
 
-1. ⚠ Exact verbatim RQ1 and RQ2 → paste into CLAUDE.md §1.
+1. ✅ RQ1/RQ2 verbatim — locked 2026-07-14, see CLAUDE.md §1.
 2. ⚠ Codebook v1 (categories + operational definitions) → `research/coding/codebook_v1.md`.
 3. ⏳ Citation style + writing-conventions document (author is sending this) — will
    confirm or correct the provisional APA 7 assumption and any other conventions.

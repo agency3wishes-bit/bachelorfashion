@@ -31,12 +31,15 @@ generic skill checklist on every point of conflict.
 - **Method:** Qualitative comparative multiple-case study; document analysis;
   directed qualitative content analysis (deductive codebook)
 - **Cases:** H&M Group and Inditex, reporting years 2022–2025
-- **Research questions (VERBATIM — never paraphrase):**
-  - RQ1: ⚠ PENDING — exact wording must be supplied by the author and pasted here
-  - RQ2: ⚠ PENDING — exact wording must be supplied by the author and pasted here
-  - Working roles until then: RQ1 = institutional pressures (coercive/normative/mimetic)
-    and corporate responses (substantive/symbolic/mixed); RQ2 = competitive pressure and
-    selective-disclosure patterns in environmental communication.
+- **Research questions (VERBATIM — never paraphrase; locked 2026-07-14):**
+  - RQ1: How are coercive, normative, and mimetic institutional pressures reflected in
+    the environmental communication of H&M Group and Inditex (2022–2025), and how do
+    their corporate responses compare in terms of substantive, symbolic, or mixed
+    conformity?
+  - RQ2: What patterns of selective disclosure (e.g., omission, disproportional
+    emphasis, inconsistent metrics) characterize the environmental communication of
+    H&M Group and Inditex (2022–2025), and how do these patterns compare across the
+    two firms in light of competitive pressure?
 - **Theoretical lens:** Institutional Theory (PRIMARY and only main lens).
   Supporting concepts only: Legitimacy Theory, decoupling, selective disclosure.
 - **Scope boundary (critical):** The thesis analyses *communication patterns and
