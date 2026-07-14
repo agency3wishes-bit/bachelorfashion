@@ -1,4 +1,4 @@
-# Approved Source Corpus — 20 sources (LOCKED)
+# Approved Source Corpus — 30 sources (LOCKED)
 
 Citing any academic source outside this list is a protocol violation (see CLAUDE.md §1).
 Corporate reports, EU strategy documents, the ACM decision, and NGO assessments are
@@ -34,7 +34,43 @@ B4 Legitimacy & decoupling · B5 International Business & GVCs.
 | S19 | Wood, L. M., Sebar, B., & Vecchio, N. (2020). Application of rigour and credibility in qualitative document analysis: Lessons learnt from a case study. *The Qualitative Report, 25*(2), 456–470. https://doi.org/10.46743/2160-3715/2020.4240 | METH | — | 3 |
 | S20 | Wren, B. (2022). Sustainable supply chain management in the fast fashion industry: A comparative study of current efforts and best practices to address the climate crisis. *Cleaner Logistics and Supply Chain, 4*, 100032. https://doi.org/10.1016/j.clscn.2022.100032 | CORE-T | B2, B5 | 1, 2, 5 |
 
-Counts: 14 CORE-T + 6 METH = 20. ✔
+## Expansion S21–S30 (added 2026-07-14, author-requested; multi-agent discovery + adversarial verification)
+
+All ten: peer-reviewed, genuinely open access at the publisher (gold OA venues), Google
+Scholar-indexed. Each was independently verified for existence, correct metadata, and
+OA status by a second agent instructed to refute it.
+
+| ID | Reference (APA 7) | Role | Blocks | Permitted chapters |
+|----|-------------------|------|--------|--------------------|
+| S21 | Lee, H., & Lee, J. (2022). Industry competition, corporate governance, and voluntary disclosure of greenhouse gas emissions information: Evidence from South Korea. *International Journal of Environmental Research and Public Health, 19*(23), Article 16272. https://doi.org/10.3390/ijerph192316272 | CORE-T | B6 | 2 (2.5), 5 |
+| S22 | Garcia-Torres, S., Rey-Garcia, M., & Albareda-Vivo, L. (2017). Effective disclosure in the fast-fashion industry: From sustainability reporting to action. *Sustainability, 9*(12), 2256. https://doi.org/10.3390/su9122256 | CORE-T | B2, B6 | 1, 2 (2.2, 2.5), 3 (method precedent), 5 |
+| S23 | Latif, B., Mahmood, Z., Tze San, O., Mohd Said, R., & Bakhsh, A. (2020). Coercive, normative and mimetic pressures as drivers of environmental management accounting adoption. *Sustainability, 12*(11), 4506. https://doi.org/10.3390/su12114506 | CORE-T | B3 | 2 (2.3), 3 (codebook operationalisation), 5 |
+| S24 | Álvarez-Etxeberria, I., Marco-Fondevila, M., & Zamora-Ramírez, C. (2023). Non-financial disclosure: Isomorphism effect in the face of new regulation. *Sustainability, 15*(11), 8493. https://doi.org/10.3390/su15118493 | CORE-T | B3, B6 | 2 (2.3, 2.5), 5 |
+| S25 | Feng, P., & Ngai, C. S. B. (2020). Doing more on the corporate sustainability front: A longitudinal analysis of CSR reporting of global fashion companies. *Sustainability, 12*(6), 2477. https://doi.org/10.3390/su12062477 | CORE-T | B2 | 2 (2.2), 3 (design parallel), 5 |
+| S26 | Dhanjee, K., Sebastian, A., & Aucock, M. (2026). The United Nations Sustainable Development Goals and fast fashion companies' practices: An exploration of company disclosures and media reports. *South African Journal of Economic and Management Sciences, 29*(1), Article a6476. https://doi.org/10.4102/sajems.v29i1.6476 | CORE-T | B2, B6 | 2 (2.2, 2.5), 5 |
+| S27 | Spaniol, M. J., Danilova-Jensen, E., Nielsen, M., Rosdahl, C. G., & Schmidt, C. J. (2024). Defining greenwashing: A concept analysis. *Sustainability, 16*(20), 9055. https://doi.org/10.3390/su16209055 | CORE-T | B1, B3 | 2 (2.1, 2.3), 5 |
+| S28 | Manshoven, S., & Van Opstal, W. (2022). The carrot or the stick? Stakeholder support for mandatory regulations towards a circular fashion system. *Sustainability, 14*(22), 14671. https://doi.org/10.3390/su142214671 | CORE-T | B2, B3 | 1, 2 (2.2, 2.3), 5 |
+| S29 | Loko, A. G. S., & Schiehll, E. (2025). ESG policy–practice decoupling: A measurement framework and empirical validation. *Sustainability, 17*(3), 1203. https://doi.org/10.3390/su17031203 | CORE-T | B4 | 2 (2.4), 3 (codebook), 5 |
+| S30 | Janik, A., & Ryszko, A. (2026). Greenwashing in sustainability reporting: A systematic literature review of strategic typologies and content-analysis-based measurement approaches. *Sustainability, 18*(1), 17. https://doi.org/10.3390/su18010017 | CORE-T | B1, B4 | 2 (2.1, 2.4), 3 (3.4, codebook), 5 |
+
+**B6 (new block): Competitive pressure & selective disclosure** — dedicated support for
+section 2.5, previously the only section without its own sources: S21 (competition →
+reduced voluntary disclosure, proprietary-cost evidence), S22 (selective disclosure in
+H&M/Inditex reports directly), S24 (peer imitation/isomorphism in disclosure), S26
+(under-substantiated SDG claims in 8 fast-fashion firms).
+
+**Verified reserves (approved candidates NOT included; swap on author request):**
+Ding & Wang 2025 (Sustainability, institutional pressures/ESG China); Nyahas et al. 2017
+(Cogent B&M, isomorphism & voluntary disclosure); Yucel 2025 (Global Health, strategic
+decoupling); Kim & Yang 2026 (Frontiers in Sustainability, CSRD/ESRS review); Saha et
+al. 2025 (SAGE Open, RMG supplier institutional awareness); Luan 2024 (Sustainability,
+CSR decoupling review); Oppong-Tawiah & Webster 2023 (Sustainability, greenwashing
+linguistic cues); Hu et al. 2024 (Sustainability, ESG readability); Davidescu et al.
+2026 (Sustainability, NLP greenwashing detection); Feng/consumer-side and Instagram
+studies rejected as off-corpus-type; Cambridge BHRJ greenwashing-law note rejected
+(OA status unverifiable); one candidate rejected for author misattribution.
+
+Counts: 24 CORE-T + 6 METH = 30. ✔
 
 ## Literature Review Map (block → section → guiding questions)
 
