@@ -11,7 +11,7 @@ Abstract: 150–200 words, written LAST.
 | 1.2 | Research Problem and Questions | S05, S15, S12 (gap framing) | |
 | 1.3 | Objectives, Scope, and Contribution | — | |
 | 2 | **Literature Review** | | 10–13 |
-| 2.1 | Conceptualising Greenwashing | B1: S01, S05, S07, S10, S12, S15, S17 | |
+| 2.1 | Conceptualizing Greenwashing | B1: S01, S05, S07, S10, S12, S15, S17 | |
 | 2.2 | Fast-Fashion Business Model and Sustainability Tensions | B2: S01, S06, S08, S11, S13, S20 | |
 | 2.3 | Institutional Pressures and Corporate Environmental Communication | B3: S05, S10, S11, S12, S18 | |
 | 2.4 | Legitimacy, Symbolic Responses, and Environmental Decoupling | B4: S05, S10, S15, S17, S18 | |

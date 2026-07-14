@@ -74,7 +74,7 @@ Counts: 24 CORE-T + 6 METH = 30. ✔
 
 ## Literature Review Map (block → section → guiding questions)
 
-- **B1 → 2.1 Conceptualising Greenwashing** (S01, S05, S07, S10, S12, S15, S17):
+- **B1 → 2.1 Conceptualizing Greenwashing** (S01, S05, S07, S10, S12, S15, S17):
   definitions; forms; intention requirement; selective disclosure; future-oriented
   greenwashing; misleading vs. ordinary positive communication.
 - **B2 → 2.2 Fast-Fashion Business Model** (S01, S06, S08, S11, S13, S20):
