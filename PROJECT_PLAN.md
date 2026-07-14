@@ -16,8 +16,8 @@ results → discussion → final introduction → conclusion → abstract → fu
 | 6 | Introduction Draft 1 | ⏳ | `thesis/1_Introduction.md` |
 | 7 | Literature Review | ⏳ | `thesis/2_Literature_Review.md` |
 | 8 | Methodology (before coding) | ⏳ | `thesis/3_Methodology.md` |
-| 9 | Pilot coding → Codebook v2 | ⏳ | `research/coding/codebook_v2.md` |
-| 10 | Full coding (4 matrices) | ⏳ | `research/coding/` |
+| 9 | Pilot coding → Codebook v2 | ✅ done | `research/coding/pilot_coding_report.md`, `research/coding/codebook_v2.md` |
+| 10 | Full coding (4 matrices) | ⏳ next | `research/coding/` |
 | 11 | Results | ⏳ | `thesis/4_Results.md` |
 | 12 | Discussion | ⏳ | `thesis/5_Discussion.md` |
 | 13 | Conclusion | ⏳ | `thesis/6_Conclusion.md` |
@@ -64,9 +64,15 @@ the author is sending; APA 7 remains provisional until then.
 ## Open questions for the author (blockers marked ⚠)
 
 1. ✅ RQ1/RQ2 verbatim — locked 2026-07-14, see CLAUDE.md §1.
-2. ⚠ Codebook v1 (categories + operational definitions) → `research/coding/codebook_v1.md`.
-3. ⏳ Citation style + writing-conventions document (author is sending this) — will
-   confirm or correct the provisional APA 7 assumption and any other conventions.
-4. Article PDFs + 8 corporate report PDFs for page-precise evidence (see adaptation 2–3).
-5. Confirm availability/titles of FY2025 reports for both companies (H&M FY ends 30 Nov;
-   Inditex FY ends 31 Jan — verify what the "2025" document actually is for each).
+2. ✅ Codebook v1 → `research/coding/codebook_v1.md`; piloted and refined into
+   Codebook v2 (`research/coding/codebook_v2.md`) — see
+   `research/coding/pilot_coding_report.md` for the pilot findings.
+3. ✅ Citation style resolved (APA 7 in-text, confirmed via the Pottosina exemplar
+   thesis) — see `resources/citation_style_notes.md`.
+4. ✅ Article PDFs + corporate report PDFs all in hand — see `resources/document_corpus.md`.
+5. ✅ FY2025 report titles confirmed for both companies — see `resources/document_corpus.md`.
+6. ⏳ Decide whether to include an NGO/industry assessment for triangulation — not
+   selected yet, author approval required (see `resources/document_corpus.md` §"External
+   / context documents").
+7. ⏳ `thesis/3_Methodology.md` §3.3 (Data Collection and Document Selection) still a
+   stub — now unblockable since the corpus is complete.
