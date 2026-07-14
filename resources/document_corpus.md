@@ -19,14 +19,18 @@ Inditex's later) — flag this explicitly in Section 3.2/3.3 as a comparability
 caveat, not an error to fix; the coding matrix should record each report's actual
 covered period, not just its label.
 
-## H&M Group — IN HAND / CONFIRMED (updated 2026-07-14: 5 documents across 3 of 4 years)
+## H&M Group — ✅ COMPLETE (updated 2026-07-14: 6 documents across all 4 years)
 
 | Year (label) | Title | Reporting period | Status | Local file |
 |---|---|---|---|---|
-| 2022 | H&M Group **Sustainability Disclosure 2022** (90 pp.) — dedicated companion document covering Circularity/Climate/Nature, Fair & Equal, Supply Chain Management | 1 Dec 2021 – 30 Nov 2022 | ✅ In hand, verified authentic | `data/reports/HM_Group_Sustainability_Disclosure_2022.pdf` |
-| 2023 | H&M Group Annual and Sustainability Report 2023 (or its "Sustainability Disclosure 2023" companion) | 1 Dec 2022 – 30 Nov 2023 | ⚠ **Still missing** — only a 2-page press release announcing publication was uploaded | `data/reports/HM_Group_2023_PRESS_RELEASE_not_full_report.pdf` (not usable for coding) |
-| 2024 | H&M Group Annual & Sustainability Report 2024 (85 pp.; Sustainability report pp. 53–110) **+** H&M Group Sustainability Progress Report 2024 (34 pp.; Climate, Water, Chemicals/water pollution, Biodiversity/ecosystems/land-use, Resource use and circularity, Social impact and human rights) | 1 Dec 2023 – 30 Nov 2024 | ✅ Both in hand, verified authentic | `data/reports/HM_Group_Annual_Sustainability_Report_2024.pdf` + `data/reports/HM_Group_Sustainability_Progress_Report_2024.pdf` |
+| 2022 | H&M Group **Sustainability Disclosure 2022** (90 pp.) — Circularity/Climate/Nature, Fair & Equal, Supply Chain Management | 1 Dec 2021 – 30 Nov 2022 | ✅ In hand, verified authentic | `data/reports/HM_Group_Sustainability_Disclosure_2022.pdf` |
+| 2023 | H&M Group **Sustainability Disclosure 2023** (90 pp.) — Progress across impact areas, Climate & Nature, Resource use & Circularity, Social impact, Governance and reporting | 1 Dec 2022 – 30 Nov 2023 | ✅ In hand, verified authentic (cross-validates the Helena Helmersson → Daniel Ervér CEO transition, end Jan 2024, also visible in the 2024/2025 reports) | `data/reports/HM_Group_Sustainability_Disclosure_2023.pdf` |
+| 2024 | H&M Group Annual & Sustainability Report 2024 (85 pp.; Sustainability report pp. 53–110) **+** H&M Group Sustainability Progress Report 2024 (34 pp.) | 1 Dec 2023 – 30 Nov 2024 | ✅ Both in hand, verified authentic | `data/reports/HM_Group_Annual_Sustainability_Report_2024.pdf` + `data/reports/HM_Group_Sustainability_Progress_Report_2024.pdf` |
 | 2025 | H&M Group Annual & Sustainability Report 2025 (98 pp.; Sustainability statement pp. 58–128) | 1 Dec 2024 – 30 Nov 2025 | ✅ In hand, verified authentic | `data/reports/HM_Group_Annual_Sustainability_Report_2025.pdf` |
+
+**H&M side of the corpus is now complete for all four fiscal years (2022–2025).**
+The 2023 press release remains in `data/reports/` as a minor supplementary source
+(not used for primary coding).
 
 **Naming note (confirmed across the uploaded documents):** H&M Group's reporting model
 has multiple components each year — the Annual and Sustainability Report *and* a
@@ -36,10 +40,11 @@ Progress Report's own "How we report" page confirms this structure explicitly an
 notes the 2024 Annual Report is "aligned with the upcoming [CSRD] requirements but
 does not claim to be compliant" — directly usable evidence for the codebook's
 COERCIVE/anticipatory-pressure coding (cf. Álvarez-Etxeberria et al., 2023 in Ch.2.3).
+Notably, the 2023 Sustainability Disclosure independently confirms this same CSRD-
+anticipation language a year earlier ("As we prepare to comply with the CSRD, we are
+integrating more sustainability content into our Annual and Sustainability Report").
 
-**Still needed for full H&M coverage:** the 2023 Annual and Sustainability Report or
-its "Sustainability Disclosure 2023" companion — the one real gap left in the H&M
-side of the corpus.
+**Only remaining corpus gap: Inditex (0 of 4 years uploaded).**
 
 ## Inditex — PARTIALLY CONFIRMED ⚠
 
