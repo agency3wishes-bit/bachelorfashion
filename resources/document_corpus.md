@@ -19,20 +19,27 @@ Inditex's later) — flag this explicitly in Section 3.2/3.3 as a comparability
 caveat, not an error to fix; the coding matrix should record each report's actual
 covered period, not just its label.
 
-## H&M Group — CONFIRMED
+## H&M Group — IN HAND / CONFIRMED (updated 2026-07-14: 5 documents across 3 of 4 years)
 
-| Year (label) | Title | Reporting period | Official URL | Confidence |
+| Year (label) | Title | Reporting period | Status | Local file |
 |---|---|---|---|---|
-| 2022 | H&M Group Annual and Sustainability Report 2022 | 1 Dec 2021 – 30 Nov 2022 | https://hmgroup.com/wp-content/uploads/2023/03/HM-Group-Annual-and-Sustainability-Report-2022.pdf | Confirmed (direct PDF URL) |
-| 2023 | H&M Group Annual and Sustainability Report 2023 | 1 Dec 2022 – 30 Nov 2023 | https://hmgroup.com/wp-content/uploads/2024/03/HM-Group-Annual-and-Sustainability-Report-2023.pdf | Confirmed (direct PDF URL) |
-| 2024 | H&M Group Annual & Sustainability Report 2024 | 1 Dec 2023 – 30 Nov 2024 | https://hmgroup.com/wp-content/uploads/2025/03/HM-Group-Annual-and-sustainability-report-2024.pdf | Confirmed (direct PDF URL) |
-| 2025 | H&M Group Annual & Sustainability Report 2025 | 1 Dec 2024 – 30 Nov 2025 | https://hmgroup.com/wp-content/uploads/2026/03/HM-Group-Annual-and-sustainability-report-2025.pdf | Confirmed (direct PDF URL); already published as of this draft |
+| 2022 | H&M Group **Sustainability Disclosure 2022** (90 pp.) — dedicated companion document covering Circularity/Climate/Nature, Fair & Equal, Supply Chain Management | 1 Dec 2021 – 30 Nov 2022 | ✅ In hand, verified authentic | `data/reports/HM_Group_Sustainability_Disclosure_2022.pdf` |
+| 2023 | H&M Group Annual and Sustainability Report 2023 (or its "Sustainability Disclosure 2023" companion) | 1 Dec 2022 – 30 Nov 2023 | ⚠ **Still missing** — only a 2-page press release announcing publication was uploaded | `data/reports/HM_Group_2023_PRESS_RELEASE_not_full_report.pdf` (not usable for coding) |
+| 2024 | H&M Group Annual & Sustainability Report 2024 (85 pp.; Sustainability report pp. 53–110) **+** H&M Group Sustainability Progress Report 2024 (34 pp.; Climate, Water, Chemicals/water pollution, Biodiversity/ecosystems/land-use, Resource use and circularity, Social impact and human rights) | 1 Dec 2023 – 30 Nov 2024 | ✅ Both in hand, verified authentic | `data/reports/HM_Group_Annual_Sustainability_Report_2024.pdf` + `data/reports/HM_Group_Sustainability_Progress_Report_2024.pdf` |
+| 2025 | H&M Group Annual & Sustainability Report 2025 (98 pp.; Sustainability statement pp. 58–128) | 1 Dec 2024 – 30 Nov 2025 | ✅ In hand, verified authentic | `data/reports/HM_Group_Annual_Sustainability_Report_2025.pdf` |
 
-⚠ A shorter companion document, "H&M Group Sustainability Progress Report," was
-found confirmed for 2024 only (https://hmgroup.com/wp-content/uploads/2025/03/HM-Group-Sustainability-progress-report-2024.pdf).
-Whether equivalent companion documents exist for 2022/2023/2025 is unconfirmed —
-worth checking, but the main Annual and Sustainability Report is the primary
-document either way and sufficient for corpus inclusion.
+**Naming note (confirmed across the uploaded documents):** H&M Group's reporting model
+has multiple components each year — the Annual and Sustainability Report *and* a
+separate, deeper sustainability-only document, named "Sustainability Disclosure" in
+2022/2023 and renamed "Sustainability Progress Report" from 2024 onward. The 2024
+Progress Report's own "How we report" page confirms this structure explicitly and
+notes the 2024 Annual Report is "aligned with the upcoming [CSRD] requirements but
+does not claim to be compliant" — directly usable evidence for the codebook's
+COERCIVE/anticipatory-pressure coding (cf. Álvarez-Etxeberria et al., 2023 in Ch.2.3).
+
+**Still needed for full H&M coverage:** the 2023 Annual and Sustainability Report or
+its "Sustainability Disclosure 2023" companion — the one real gap left in the H&M
+side of the corpus.
 
 ## Inditex — PARTIALLY CONFIRMED ⚠
 
