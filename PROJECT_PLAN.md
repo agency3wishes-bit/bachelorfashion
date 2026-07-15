@@ -138,6 +138,31 @@ lack clean footers). **Result: 36 CONFIRMED, 3 PARTIAL, 0 MISMATCH, 0 UNVERIFIAB
 **Still snippet-level (flagged in §5.2/§5.6):** Zara/Inditex FTI 2023 = 50%; H&M
 What Fuels Fashion? 2025 = 71%/#1-of-200. Both need their own primaries.
 
+## Stage 19 (2026-07-15): final manuscript assembly
+
+Content was already complete; this stage assembled the submission document.
+- `thesis/7_References.md` — APA 7 reference list, alphabetical, 50 entries: all 33
+  cited academic corpus sources + 5 H&M reports + 4 Inditex reports + EU Strategy,
+  CSRD, Green Claims Directive, ACM decision, Fashion Revolution (FTI 2022/2023, WFF
+  2024) and Changing Markets Synthetics Anonymous 2.0. All 33 academic sources
+  confirmed cited in-text before inclusion.
+- **H&M 2024a/2024b disambiguation:** H&M has two 2024 documents both cited as
+  "(H&M Group, 2024)". Per APA, split into 2024a (Annual & Sustainability Report,
+  the pp.102–103,105 citation) and 2024b (Sustainability Progress Report, all other
+  2024 page-cites) across Ch.4/Ch.5 — verified 1× 2024a, 18× 2024b, zero bare.
+- `thesis/00_Title_Page.md` — title page + acknowledgments placeholder + declaration
+  placeholder.
+- `thesis/THESIS_FINAL.md` — single assembled manuscript in template order (title →
+  acknowledgments → abstract → auto-generated ToC → Ch.1–6 → references), with the
+  per-chapter internal draft/editorial notes stripped. ~22,400 words of body text.
+
+**Remaining human steps (cannot be done here — no pandoc/Word):** paste
+`THESIS_FINAL.md` into the Universität Wien Word template and apply the required
+formatting (Times New Roman 12pt, 1.5 line spacing, 1-inch margins, decimal heading
+styles); let Word generate the ToC pagination; write the Acknowledgments and the
+signed Declaration of Authorship; final human read-through; and the supervisor check
+on the presentation-vs-thesis scope evolution (4-year window, tightened RQ wording).
+
 ## Stage status
 
 | # | Stage | Status | Output |
