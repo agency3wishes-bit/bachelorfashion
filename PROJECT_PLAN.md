@@ -4,6 +4,46 @@ Topic-specific instantiation of `workflow` (Thesis Workflow Playbook). Working o
 research design → literature evidence → document corpus → methodology → coding →
 results → discussion → final introduction → conclusion → abstract → full audit.
 
+## Stage 16 (post-audit addendum, 2026-07-15): reconciliation with the approved thesis-proposal presentation
+
+The author shared their supervisor-approved thesis-proposal presentation ("Drivers of
+Greenwashing in the Fast Fashion Industry"). Comparison against this repo's thesis
+found the overall qualitative multi-case document-analysis design and case selection
+(H&M/Zara-Inditex) consistent, but three foundational sources anchoring the
+presentation — Delmas & Burbano (2011), DiMaggio & Powell (1983), Marquis & Toffel
+(2012, later published as Marquis, Toffel & Zhou, 2016) — were absent from the
+30-source approved corpus. Author approved adding all three (2026-07-15). Actioned:
+- New source notes: `research/source_notes/S31_DelmasBurbano_2011.md`,
+  `S32_DiMaggioPowell_1983.md`, `S33_MarquisToffelZhou_2016.md` (WebSearch-verified,
+  DIRECT/PARTIAL/UNVERIFIED tagged; primary PDFs blocked by this environment's proxy,
+  consistent with the rest of the corpus).
+- `resources/approved_source_corpus.md` updated: S31–S33 added (27 CORE-T + 6 METH
+  = 33 total), with the S33 citation-choice note (citing the 2016 peer-reviewed
+  published version, not the 2012 working paper the presentation showed).
+- `thesis/2_Literature_Review.md`: DiMaggio & Powell now the opening citation for
+  §2.3's coercive/normative/mimetic triad (with precise original definitions);
+  Delmas & Burbano added to §2.1 (driver taxonomy, a distinct contribution from the
+  existing definitional sources) and cross-referenced in §2.3/§2.5; Marquis, Toffel
+  & Zhou added to §2.5 as a large-N (4,750 firms, 45 countries) complement to Lee &
+  Lee (2022)'s single-country selective-disclosure finding.
+- `thesis/5_Discussion.md`: DiMaggio & Powell's original mimetic-isomorphism
+  definition now grounds §5.1/§5.3's existing "genuinely mimetic vs. competitive
+  signaling" distinction; Marquis, Toffel & Zhou's scrutiny/norms mechanism now
+  complements the §5.2 Living Wages/proprietary-withholding finding and the §5.4
+  theoretical-implications summary.
+
+**Not yet resolved — flagged for the author, not actioned unilaterally:** the
+presentation's RQ wording (broader, industry-causal framing: "what drives... to
+greenwash," "how is selective disclosure used as a mechanism") differs from this
+thesis's locked RQ wording (comparative, firm-specific: "how are pressures reflected
+in H&M/Inditex's communication... how do responses compare"), and its stated study
+period ("3 Years") differs from the locked 2022–2025 (4 fiscal years) window. These
+may be an intentional, defensible refinement already implicit in how the thesis
+evolved past the presentation stage — but since the presentation was supervisor-
+approved, the author should confirm this evolution is expected/acceptable before
+final submission, rather than have it surface as a surprise inconsistency to the
+supervisor.
+
 ## Stage status
 
 | # | Stage | Status | Output |

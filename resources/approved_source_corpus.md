@@ -57,7 +57,8 @@ OA status by a second agent instructed to refute it.
 section 2.5, previously the only section without its own sources: S21 (competition →
 reduced voluntary disclosure, proprietary-cost evidence), S22 (selective disclosure in
 H&M/Inditex reports directly), S24 (peer imitation/isomorphism in disclosure), S26
-(under-substantiated SDG claims in 8 fast-fashion firms).
+(under-substantiated SDG claims in 8 fast-fashion firms), S33 (large-N, 45-country
+evidence that scrutiny and global norms limit selective disclosure).
 
 **Verified reserves (approved candidates NOT included; swap on author request):**
 Ding & Wang 2025 (Sustainability, institutional pressures/ESG China); Nyahas et al. 2017
@@ -72,24 +73,56 @@ studies rejected as off-corpus-type; Cambridge BHRJ greenwashing-law note reject
 
 Counts: 24 CORE-T + 6 METH = 30. ✔
 
+## Expansion S31–S33 (added 2026-07-15, author-requested — supervisor-approved foundational sources)
+
+The author's thesis-proposal presentation, already shown to and approved by the
+supervisor (Mr. Aveed Raha), anchored on three classic sources not present in the
+S01–S30 corpus. The author confirmed these should be added and integrated into the
+Literature Review and Discussion. Unlike the S21–S30 expansion (which required gold
+open access at the publisher), these three are paywalled at their publisher of
+record but are foundational, canonical works freely available via legitimate
+institutional-repository (green OA) mirrors — this is a different, but still
+legitimate, accessibility profile, noted here for transparency rather than implied
+as identical to the S21–S30 batch's gold-OA standard. Each was researched via
+WebSearch (direct publisher/repository PDF fetch is blocked in this environment, as
+documented throughout `research/source_notes/`) and tagged DIRECT/PARTIAL/UNVERIFIED
+per the project's standard convention; see `research/source_notes/S31–S33_*.md`.
+
+| ID | Reference (APA 7) | Role | Blocks | Permitted chapters |
+|----|-------------------|------|--------|--------------------|
+| S31 | Delmas, M. A., & Burbano, V. C. (2011). The drivers of greenwashing. *California Management Review, 54*(1), 64–87. https://doi.org/10.1525/cmr.2011.54.1.64 | CORE-T | B1, B3 | 1, 2 (2.1, 2.3), 5 |
+| S32 | DiMaggio, P. J., & Powell, W. W. (1983). The iron cage revisited: Institutional isomorphism and collective rationality in organizational fields. *American Sociological Review, 48*(2), 147–160. | CORE-T | B3 | 1, 2 (2.3, 2.7), 3 (codebook operationalisation), 5 |
+| S33 | Marquis, C., Toffel, M. W., & Zhou, Y. (2016). Scrutiny, norms, and selective disclosure: A global study of greenwashing. *Organization Science, 27*(2), 483–504. https://doi.org/10.1287/orsc.2015.1039 | CORE-T | B1, B6 | 2 (2.4, 2.5), 5 |
+
+**Note on S33's citation:** this research originally circulated as Marquis & Toffel
+(2012), a two-author Harvard Business School working paper (No. 11-115) — the
+version the author's presentation cited. The thesis cites the later, peer-reviewed,
+three-author published version (Marquis, Toffel, & Zhou, 2016, *Organization
+Science*) instead, as the more rigorous standard citation for the same research.
+
+Counts: 27 CORE-T + 6 METH = 33. ✔
+
 ## Literature Review Map (block → section → guiding questions)
 
-- **B1 → 2.1 Conceptualizing Greenwashing** (S01, S05, S07, S10, S12, S15, S17):
+- **B1 → 2.1 Conceptualizing Greenwashing** (S01, S05, S07, S10, S12, S15, S17, S31):
   definitions; forms; intention requirement; selective disclosure; future-oriented
-  greenwashing; misleading vs. ordinary positive communication.
+  greenwashing; misleading vs. ordinary positive communication; driver taxonomy
+  (external/organizational/individual, S31).
 - **B2 → 2.2 Fast-Fashion Business Model** (S01, S06, S08, S11, S13, S20):
   what makes fast fashion a distinct model; sustainability vs. speed/volume/price
   conflict; why single-indicator improvement ≠ lower total impact.
-- **B3 → 2.3 Institutional Pressures** (S05, S10, S11, S12, S18):
-  operationalising coercive/normative/mimetic; observable indicators in reports;
-  substantive change vs. symbolic conformity.
-- **B4 → 2.4 Legitimacy & Decoupling** (S05, S10, S15, S17, S18):
+- **B3 → 2.3 Institutional Pressures** (S32, S05, S10, S11, S12, S18, S31):
+  the foundational coercive/normative/mimetic triad (S32, cited first as the
+  originating source); operationalising coercive/normative/mimetic; observable
+  indicators in reports; substantive change vs. symbolic conformity.
+- **B4 → 2.4 Legitimacy & Decoupling** (S05, S10, S15, S17, S18, S33):
   seek/maintain/repair legitimacy; policy vs. implementation;
-  communication–performance gap.
+  communication–performance gap; large-N precedent for selective disclosure (S33).
 - **B5 → 2.6 IB & Global Value Chains** (S02, S06, S11, S13, S20):
   fragmented GVCs and information asymmetry; brand vs. supplier responsibility;
   cross-border regulatory variation and disclosure.
 - **2.5 Competitive Pressures & Selective Disclosure** draws across B1+B4
-  (S05, S10, S15, S17 + business-model tension from B2).
+  (S05, S10, S15, S17, S33 + business-model tension from B2).
 - **METH → Ch.3** (S03 case study design; S04, S09 content analysis & trustworthiness;
-  S14 directed QCA — primary; S16, S19 document analysis rigour).
+  S14 directed QCA — primary; S16, S19 document analysis rigour; S32 codebook
+  operationalisation of the coercive/normative/mimetic categories).
