@@ -105,6 +105,39 @@ remains grounded in the coding matrices only, not a directly-read primary. If th
 author uploads those PDFs, the identical verification pass should be run on the Inditex
 side before final submission.
 
+## Stage 18 (2026-07-15): Inditex primary verification + NGO primary confirmations
+
+Author supplied the Inditex sustainability-statement text extractions (2022 full
+report, 2023 annual-accounts volume that also carries the NFI statement, 2024 NFI,
+2025 NFI) and several NGO primaries. Actioned:
+
+**Inditex verification** — same multi-agent pass as the H&M Stage-17 one, over 39
+distinct `(Inditex, YEAR, p. X)` claims across Ch.4/Ch.5/Ch.6, each checked against
+the mapped text file (quotes/numbers strict; pages best-effort, as text extractions
+lack clean footers). **Result: 36 CONFIRMED, 3 PARTIAL, 0 MISMATCH, 0 UNVERIFIABLE
+— no fabricated evidence.** All 3 PARTIALs corrected:
+- Join Life (2022, p.187): 61%/50% figures verbatim-correct, but it is Inditex's
+  **group-wide** Join Life standard, not "Zara-brand" (the 61% is "of our [Inditex]
+  products", not Zara-specific). Corrected in Ch.1 §1.1, Ch.4 §4.3, Ch.5 §5.2.
+- AR3T quote (2022): source reads "Avoid, Reduce, Restore, Regenerate **and**
+  Transform" (thesis had a comma); fixed.
+- Care for Water (2025, p.144): source reads "to **making** it a benchmark…";
+  re-quoted the verbatim fragment "a benchmark for the textile and leather sector".
+
+**NGO primary confirmations** (author-supplied screenshots/PDF):
+- Fashion Transparency Index 2022 (H&M 66%, p.13) and 2023 (H&M 71%, p.19) — DIRECT.
+- What Fuels Fashion? 2024 — H&M 61% (p.21) and Zara/Inditex 41% (p.20 full
+  distribution) — DIRECT; a fully-confirmed cross-company pair for 2024.
+- Changing Markets Synthetics Anonymous 2.0 (full PDF) — DIRECT. Two corrections:
+  (1) the "~96% of H&M's claims misleading" figure does NOT appear anywhere in this
+  2.0 report (full-text-searched) — it is from the 2021 predecessor, not in hand, so
+  it was removed from the thesis; (2) Inditex is the **second**-highest disclosed
+  synthetic-fibre volume (178,030t), after Nike — not "the largest," as an earlier
+  draft said. §5.2 re-grounded in the report's actual H&M-reprimand language.
+
+**Still snippet-level (flagged in §5.2/§5.6):** Zara/Inditex FTI 2023 = 50%; H&M
+What Fuels Fashion? 2025 = 71%/#1-of-200. Both need their own primaries.
+
 ## Stage status
 
 | # | Stage | Status | Output |
