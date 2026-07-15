@@ -1,34 +1,26 @@
 <div align="center">
 
-**UNIVERSITY OF VIENNA**
+**UNIVERSITÄT WIEN**
 
-Faculty of Business, Economics and Statistics
+&nbsp;
+
+# BACHELOR THESIS
+
+&nbsp;
+
+Title of the Bachelor's Thesis
+
+&nbsp;
+
+## Greenwashing and Environmental Communication in Fast Fashion: A Comparative Case Study of H&M Group and Inditex (2022–2025)
 
 &nbsp;
 
 &nbsp;
 
-# Greenwashing and Environmental Communication in Fast Fashion: A Comparative Case Study of H&M Group and Inditex (2022–2025)
+verfasst von / submitted by
 
-&nbsp;
-
-Bachelor's Thesis
-
-submitted in partial fulfilment of the requirements for the degree of
-
-**Bachelor of Science (International Business)**
-
-&nbsp;
-
-&nbsp;
-
-Submitted by: **Renata Kanzafarova**
-
-Student ID: 11922234
-
-&nbsp;
-
-Supervisor: **Dr. Aveed Raha**
+**Renata Kanzafarova, 11922234**
 
 &nbsp;
 
@@ -38,14 +30,9 @@ Vienna, July 2026
 
 </div>
 
----
+&nbsp;
 
-## Acknowledgments
-
-*[Optional — to be completed by the author. Voluntary per the institutional template.]*
-
----
-
-## Declaration of Authorship
-
-*[If required by the institution, insert the standard University of Vienna declaration of independent authorship here, dated and signed.]*
+| | |
+|---|---|
+| Studienrichtung lt. Studienblatt / degree programme as it appears on the student record sheet: | International Business *[confirm the exact programme name as printed on your student record sheet]* |
+| Betreut von / Supervisor: | Dr. Aveed Raha |

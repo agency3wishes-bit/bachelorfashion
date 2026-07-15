@@ -1,34 +1,26 @@
 <div align="center">
 
-**UNIVERSITY OF VIENNA**
+**UNIVERSITÄT WIEN**
 
-Faculty of Business, Economics and Statistics
+&nbsp;
+
+# BACHELOR THESIS
+
+&nbsp;
+
+Title of the Bachelor's Thesis
+
+&nbsp;
+
+## Greenwashing and Environmental Communication in Fast Fashion: A Comparative Case Study of H&M Group and Inditex (2022–2025)
 
 &nbsp;
 
 &nbsp;
 
-# Greenwashing and Environmental Communication in Fast Fashion: A Comparative Case Study of H&M Group and Inditex (2022–2025)
+verfasst von / submitted by
 
-&nbsp;
-
-Bachelor's Thesis
-
-submitted in partial fulfilment of the requirements for the degree of
-
-**Bachelor of Science (International Business)**
-
-&nbsp;
-
-&nbsp;
-
-Submitted by: **Renata Kanzafarova**
-
-Student ID: 11922234
-
-&nbsp;
-
-Supervisor: **Dr. Aveed Raha**
+**Renata Kanzafarova, 11922234**
 
 &nbsp;
 
@@ -38,17 +30,12 @@ Vienna, July 2026
 
 </div>
 
----
+&nbsp;
 
-## Acknowledgments
-
-*[Optional — to be completed by the author. Voluntary per the institutional template.]*
-
----
-
-## Declaration of Authorship
-
-*[If required by the institution, insert the standard University of Vienna declaration of independent authorship here, dated and signed.]*
+| | |
+|---|---|
+| Studienrichtung lt. Studienblatt / degree programme as it appears on the student record sheet: | International Business *[confirm the exact programme name as printed on your student record sheet]* |
+| Betreut von / Supervisor: | Dr. Aveed Raha |
 
 ---
 
@@ -60,46 +47,63 @@ This bachelor's thesis examines environmental communication in the fast-fashion 
 
 # Table of Contents
 
-*Page numbers are generated automatically in the word processor; the structure below reflects the final chapter and section headings.*
+*Heading structure below; page numbers are generated automatically in the word processor.*
 
-- Abstract
-- Chapter 1 — Introduction
-    - 1.1 Background of the Study
-    - 1.2 Research Problem and Questions
-    - 1.3 Objectives, Scope, and Contribution
-- Chapter 2 — Literature Review
-    - 2.1 Conceptualizing Greenwashing
-    - 2.2 The Fast-Fashion Business Model and Sustainability Tensions
-    - 2.3 Institutional Pressures and Corporate Environmental Communication
-    - 2.4 Legitimacy, Symbolic Responses, and Environmental Decoupling
-    - 2.5 Competitive Pressures and Selective Disclosure
-    - 2.6 International Business and Global Value Chains
-    - 2.7 Research Gap and Conceptual Framework
-- Chapter 3 — Research Methodology
-    - 3.1 Research Design
-    - 3.2 Case Selection and Study Period
-    - 3.3 Data Collection and Document Selection
-    - 3.4 Data Analysis
-    - 3.5 Trustworthiness and Limitations
-- Chapter 4 — Results
-    - 4.1 Overview of the Document Corpus
-    - 4.2 H&M Group
-    - 4.3 Inditex
-    - 4.4 Cross-Case Comparison
-    - 4.5 Summary of Findings
-- Chapter 5 — Discussion
-    - 5.1 Institutional Pressures and Corporate Responses (RQ1)
-    - 5.2 Competitive Pressures and Selective Disclosure (RQ2)
-    - 5.3 Interaction Between Institutional and Competitive Pressures
-    - 5.4 Theoretical Implications
-    - 5.5 Practical Implications
-    - 5.6 Limitations and Future Research
-- Chapter 6 — Conclusion
-- References
+Abstract
+
+1 Introduction
+&nbsp;&nbsp;&nbsp;&nbsp;1.1 Background of the Study
+&nbsp;&nbsp;&nbsp;&nbsp;1.2 Research Problem and Questions
+&nbsp;&nbsp;&nbsp;&nbsp;1.3 Objectives, Scope, and Contribution
+2 Literature Review
+&nbsp;&nbsp;&nbsp;&nbsp;2.1 Conceptualizing Greenwashing
+&nbsp;&nbsp;&nbsp;&nbsp;2.2 The Fast-Fashion Business Model and Sustainability Tensions
+&nbsp;&nbsp;&nbsp;&nbsp;2.3 Institutional Pressures and Corporate Environmental Communication
+&nbsp;&nbsp;&nbsp;&nbsp;2.4 Legitimacy, Symbolic Responses, and Environmental Decoupling
+&nbsp;&nbsp;&nbsp;&nbsp;2.5 Competitive Pressures and Selective Disclosure
+&nbsp;&nbsp;&nbsp;&nbsp;2.6 International Business and Global Value Chains
+&nbsp;&nbsp;&nbsp;&nbsp;2.7 Research Gap and Conceptual Framework
+3 Research Methodology
+&nbsp;&nbsp;&nbsp;&nbsp;3.1 Research Design
+&nbsp;&nbsp;&nbsp;&nbsp;3.2 Case Selection and Study Period
+&nbsp;&nbsp;&nbsp;&nbsp;3.3 Data Collection and Document Selection
+&nbsp;&nbsp;&nbsp;&nbsp;3.4 Data Analysis
+&nbsp;&nbsp;&nbsp;&nbsp;3.5 Trustworthiness and Limitations
+4 Results
+&nbsp;&nbsp;&nbsp;&nbsp;4.1 Overview of the Document Corpus
+&nbsp;&nbsp;&nbsp;&nbsp;4.2 H&M Group
+&nbsp;&nbsp;&nbsp;&nbsp;4.3 Inditex
+&nbsp;&nbsp;&nbsp;&nbsp;4.4 Cross-Case Comparison
+&nbsp;&nbsp;&nbsp;&nbsp;4.5 Summary of Findings
+5 Discussion
+&nbsp;&nbsp;&nbsp;&nbsp;5.1 Institutional Pressures and Corporate Responses (RQ1)
+&nbsp;&nbsp;&nbsp;&nbsp;5.2 Competitive Pressures and Selective Disclosure (RQ2)
+&nbsp;&nbsp;&nbsp;&nbsp;5.3 Interaction Between Institutional and Competitive Pressures
+&nbsp;&nbsp;&nbsp;&nbsp;5.4 Theoretical Implications
+&nbsp;&nbsp;&nbsp;&nbsp;5.5 Practical Implications
+&nbsp;&nbsp;&nbsp;&nbsp;5.6 Limitations and Future Research
+6 Conclusion
+
+List of Figures
+List of Tables
+
+7 References
 
 ---
 
-# Chapter 1 — Introduction
+# List of Figures
+
+None.
+
+---
+
+# List of Tables
+
+None.
+
+---
+
+# 1 Introduction
 
 ### 1.1 Background of the Study
 
@@ -135,7 +139,7 @@ The remainder of the thesis proceeds in five chapters. Chapter 2 reviews the lit
 
 ---
 
-# Chapter 2 — Literature Review
+# 2 Literature Review
 
 ### 2.1 Conceptualizing Greenwashing
 
@@ -211,7 +215,7 @@ In sum, this chapter has traced greenwashing's conceptual boundaries, fast fashi
 
 ---
 
-# Chapter 3 — Research Methodology
+# 3 Research Methodology
 
 ### 3.1 Research Design
 
@@ -269,7 +273,7 @@ In sum, this chapter has set out a qualitative, comparative case-study design gr
 
 ---
 
-# Chapter 4 — Results
+# 4 Results
 
 ### 4.1 Overview of the Document Corpus
 
@@ -329,7 +333,7 @@ Taken together, the coding identifies patterns that are traceable to specific do
 
 ---
 
-# Chapter 5 — Discussion
+# 5 Discussion
 
 ### 5.1 Institutional Pressures and Corporate Responses (RQ1)
 
@@ -379,7 +383,7 @@ This chapter has interpreted the Results through the framework built in Chapter 
 
 ---
 
-# Chapter 6 — Conclusion
+# 6 Conclusion
 
 This thesis set out to examine the credibility of fast fashion's environmental communication at its most consequential site: the published reporting of the industry's two largest firms, H&M Group and Inditex, across the 2022–2025 reporting years, precisely as European disclosure regulation shifted from a largely voluntary to an increasingly mandatory regime. Approaching that problem through Institutional Theory and a directed qualitative content analysis of the two firms' own documents, the study posed two research questions, which can now be answered in the terms the coded evidence supports. On RQ1, coercive, normative, and mimetic pressures are all identifiable in the coded material, but the most instructive finding concerns how differently the same pressures were absorbed. Coercive pressure left the clearest trace, and its signature is timing: H&M Group absorbed the approaching CSRD/ESRS regime first as language — anticipatory regulatory rhetoric from 2022, a hedged "aligned with" rather than compliant framing by FY2024 — and only in 2025 as reporting architecture, whereas Inditex converted to the full ESRS structure a reporting cycle earlier, in 2024, with little preceding anticipatory rhetoric in its coded material. Normative and mimetic pressures surface chiefly as convergence on shared voluntary frameworks such as SBTi-validated targets and field-standard terminology, rather than in peer-ranking language, which the analysis assigned to competitive signaling instead. As to conformity type, neither firm is uniformly substantive or symbolic: the distinction discriminates at the level of disclosure themes, in near mirror-image patterns — H&M consistently quantified on climate, water, and materials yet without biodiversity targets through 2025 (H&M Group, 2025, pp. 86–87), Inditex progressively quantified on biodiversity to 1.5 million hectares (Inditex, 2025, pp. 146–147) yet reach-only on living wages. Both firms' responses are therefore best characterized as mixed conformity, resolved theme by theme rather than firm by firm.
 
@@ -391,111 +395,108 @@ These conclusions carry the limits appropriate to their design. A two-case quali
 
 ---
 
-# References
+# 7 References
 
-*APA 7th edition, alphabetical by author surname. Academic sources are the 33 works
-of the approved corpus (`resources/approved_source_corpus.md`); company reports and
-regulatory/NGO documents are the empirical and context sources
-(`resources/document_corpus.md`). H&M Group's two 2024 documents are distinguished as
-2024a (Annual & Sustainability Report) and 2024b (Sustainability Progress Report),
-matching the in-text citations in Chapters 4–5.*
+### 7.1 Citation of Relevant Literature
 
-Adamkiewicz, J., Kochańska, E., Adamkiewicz, I., & Łukasik, R. M. (2022). Greenwashing and sustainable fashion industry. *Current Opinion in Green and Sustainable Chemistry, 38*, 100710. https://doi.org/10.1016/j.cogsc.2022.100710
+*APA 7th edition. Entries are numbered in order of first citation in the text, per the institutional template. Academic sources form the approved corpus; company reports and regulatory/NGO documents are the empirical and context sources. H&M Group's two 2024 documents are 2024a (Annual & Sustainability Report) and 2024b (Sustainability Progress Report).*
 
-Álvarez-Etxeberria, I., Marco-Fondevila, M., & Zamora-Ramírez, C. (2023). Non-financial disclosure: Isomorphism effect in the face of new regulation. *Sustainability, 15*(11), 8493. https://doi.org/10.3390/su15118493
+1. Bick, R., Halsey, E., & Ekenga, C. C. (2018). The global environmental injustice of fast fashion. *Environmental Health, 17*, Article 92. https://doi.org/10.1186/s12940-018-0433-7
 
-Asmussen, C. G., Fosfuri, A., Larsen, M. M., & Santangelo, G. D. (2023). Corporate social responsibility in the global value chain: A bargaining perspective. *Journal of International Business Studies, 54*, 1175–1192. https://doi.org/10.1057/s41267-023-00635-w
+2. Dzhengiz, T., Haukkala, T., & Sahimaa, O. (2023). (Un)Sustainable transitions towards fast and ultra-fast fashion. *Fashion and Textiles, 10*, Article 19. https://doi.org/10.1186/s40691-023-00337-9
 
-Authority for Consumers and Markets [ACM]. (2022). *Commitment decision regarding H&M's sustainability claims*. https://www.acm.nl/en/publications/commitment-decision-handm-regarding-sustainability-claims
+3. Adamkiewicz, J., Kochańska, E., Adamkiewicz, I., & Łukasik, R. M. (2022). Greenwashing and sustainable fashion industry. *Current Opinion in Green and Sustainable Chemistry, 38*, 100710. https://doi.org/10.1016/j.cogsc.2022.100710
 
-Baxter, P., & Jack, S. (2008). Qualitative case study methodology: Study design and implementation for novice researchers. *The Qualitative Report, 13*(4), 544–559. https://doi.org/10.46743/2160-3715/2008.1573
+4. Fraser, E., & van der Ven, H. (2022). Increasing transparency in global supply chains: The case of the fast fashion industry. *Sustainability, 14*(18), 11520. https://doi.org/10.3390/su141811520
 
-Bengtsson, M. (2016). How to plan and perform a qualitative study using content analysis. *NursingPlus Open, 2*, 8–14. https://doi.org/10.1016/j.npls.2016.01.001
+5. European Commission. (2022). *EU strategy for sustainable and circular textiles* (COM(2022) 141 final). https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A52022DC0141
 
-Bernini, F., & La Rosa, F. (2024). Research in the greenwashing field: Concepts, theories, and potential impacts on economic and social value. *Journal of Management and Governance, 28*, 405–444. https://doi.org/10.1007/s10997-023-09686-5
+6. European Union. (2022). *Directive (EU) 2022/2464 of the European Parliament and of the Council of 14 December 2022 as regards corporate sustainability reporting (Corporate Sustainability Reporting Directive)*. Official Journal of the European Union, L 322, 15–80. https://eur-lex.europa.eu/eli/dir/2022/2464/oj
 
-Bick, R., Halsey, E., & Ekenga, C. C. (2018). The global environmental injustice of fast fashion. *Environmental Health, 17*, Article 92. https://doi.org/10.1186/s12940-018-0433-7
+7. European Commission. (2023). *Proposal for a directive on substantiation and communication of explicit environmental claims (Green Claims Directive)* (COM(2023) 166 final). https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A52023PC0166
 
-Changing Markets Foundation. (2023). *Synthetics anonymous 2.0: Fashion's persistent plastic problem*. https://changingmarkets.org/
+8. Authority for Consumers and Markets [ACM]. (2022). *Commitment decision regarding H&M's sustainability claims*. https://www.acm.nl/en/publications/commitment-decision-handm-regarding-sustainability-claims
 
-de Freitas Netto, S. V., Sobral, M. F. F., Ribeiro, A. R. B., & Soares, G. R. da L. (2020). Concepts and forms of greenwashing: A systematic review. *Environmental Sciences Europe, 32*, Article 19. https://doi.org/10.1186/s12302-020-0300-3
+9. Gatti, L., Seele, P., & Rademacher, L. (2019). Grey zone in—greenwash out: A review of greenwashing research and implications for the voluntary-mandatory transition of CSR. *International Journal of Corporate Social Responsibility, 4*, Article 6. https://doi.org/10.1186/s40991-019-0044-9
 
-Delmas, M. A., & Burbano, V. C. (2011). The drivers of greenwashing. *California Management Review, 54*(1), 64–87. https://doi.org/10.1525/cmr.2011.54.1.64
+10. Montgomery, A. W., Lyon, T. P., & Barg, J. (2024). No end in sight? A greenwash review and research agenda. *Organization & Environment, 37*(2), 221–256. https://doi.org/10.1177/10860266231168905
 
-Dhanjee, K., Sebastian, A., & Aucock, M. (2026). The United Nations Sustainable Development Goals and fast fashion companies' practices: An exploration of company disclosures and media reports. *South African Journal of Economic and Management Sciences, 29*(1), Article a6476. https://doi.org/10.4102/sajems.v29i1.6476
+11. Bernini, F., & La Rosa, F. (2024). Research in the greenwashing field: Concepts, theories, and potential impacts on economic and social value. *Journal of Management and Governance, 28*, 405–444. https://doi.org/10.1007/s10997-023-09686-5
 
-DiMaggio, P. J., & Powell, W. W. (1983). The iron cage revisited: Institutional isomorphism and collective rationality in organizational fields. *American Sociological Review, 48*(2), 147–160.
+12. Delmas, M. A., & Burbano, V. C. (2011). The drivers of greenwashing. *California Management Review, 54*(1), 64–87. https://doi.org/10.1525/cmr.2011.54.1.64
 
-Dzhengiz, T., Haukkala, T., & Sahimaa, O. (2023). (Un)Sustainable transitions towards fast and ultra-fast fashion. *Fashion and Textiles, 10*, Article 19. https://doi.org/10.1186/s40691-023-00337-9
+13. DiMaggio, P. J., & Powell, W. W. (1983). The iron cage revisited: Institutional isomorphism and collective rationality in organizational fields. *American Sociological Review, 48*(2), 147–160.
 
-Elo, S., Kääriäinen, M., Kanste, O., Pölkki, T., Utriainen, K., & Kyngäs, H. (2014). Qualitative content analysis: A focus on trustworthiness. *SAGE Open, 4*(1), 1–10. https://doi.org/10.1177/2158244014522633
+14. Marquis, C., Toffel, M. W., & Zhou, Y. (2016). Scrutiny, norms, and selective disclosure: A global study of greenwashing. *Organization Science, 27*(2), 483–504. https://doi.org/10.1287/orsc.2015.1039
 
-European Commission. (2022). *EU strategy for sustainable and circular textiles* (COM(2022) 141 final). https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A52022DC0141
+15. de Freitas Netto, S. V., Sobral, M. F. F., Ribeiro, A. R. B., & Soares, G. R. da L. (2020). Concepts and forms of greenwashing: A systematic review. *Environmental Sciences Europe, 32*, Article 19. https://doi.org/10.1186/s12302-020-0300-3
 
-European Commission. (2023). *Proposal for a directive on substantiation and communication of explicit environmental claims (Green Claims Directive)* (COM(2023) 166 final). https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A52023PC0166
+16. Spaniol, M. J., Danilova-Jensen, E., Nielsen, M., Rosdahl, C. G., & Schmidt, C. J. (2024). Defining greenwashing: A concept analysis. *Sustainability, 16*(20), 9055. https://doi.org/10.3390/su16209055
 
-European Union. (2022). *Directive (EU) 2022/2464 of the European Parliament and of the Council of 14 December 2022 as regards corporate sustainability reporting (Corporate Sustainability Reporting Directive)*. Official Journal of the European Union, L 322, 15–80. https://eur-lex.europa.eu/eli/dir/2022/2464/oj
+17. Nemes, N., Scanlan, S. J., Smith, P., Smith, T., Aronczyk, M., Hill, S., Lewis, S. L., Montgomery, A. W., Tubiello, F. N., & Stabinsky, D. (2022). An integrated framework to assess greenwashing. *Sustainability, 14*(8), 4431. https://doi.org/10.3390/su14084431
 
-Fashion Revolution. (2022). *Fashion transparency index 2022*. https://www.fashionrevolution.org/fashion-transparency-index/
+18. Wren, B. (2022). Sustainable supply chain management in the fast fashion industry: A comparative study of current efforts and best practices to address the climate crisis. *Cleaner Logistics and Supply Chain, 4*, 100032. https://doi.org/10.1016/j.clscn.2022.100032
 
-Fashion Revolution. (2023). *Fashion transparency index 2023*. https://www.fashionrevolution.org/fashion-transparency-index/
+19. Manshoven, S., & Van Opstal, W. (2022). The carrot or the stick? Stakeholder support for mandatory regulations towards a circular fashion system. *Sustainability, 14*(22), 14671. https://doi.org/10.3390/su142214671
 
-Fashion Revolution. (2024). *What fuels fashion? 2024*. https://www.fashionrevolution.org/fashion-transparency-index/
+20. Inês, A., Diniz, A., & Moreira, A. C. (2023). A review of greenwashing and supply chain management: Challenges ahead. *Cleaner Environmental Systems, 11*, 100136. https://doi.org/10.1016/j.cesys.2023.100136
 
-Feng, P., & Ngai, C. S. B. (2020). Doing more on the corporate sustainability front: A longitudinal analysis of CSR reporting of global fashion companies. *Sustainability, 12*(6), 2477. https://doi.org/10.3390/su12062477
+21. Garcia-Torres, S., Rey-Garcia, M., & Albareda-Vivo, L. (2017). Effective disclosure in the fast-fashion industry: From sustainability reporting to action. *Sustainability, 9*(12), 2256. https://doi.org/10.3390/su9122256
 
-Forliano, C., Battisti, E., de Bernardi, P., & Kliestik, T. (2025). Mapping the greenwashing research landscape: A theoretical and field analysis. *Review of Managerial Science, 19*, 3407–3456. https://doi.org/10.1007/s11846-025-00856-3
+22. Feng, P., & Ngai, C. S. B. (2020). Doing more on the corporate sustainability front: A longitudinal analysis of CSR reporting of global fashion companies. *Sustainability, 12*(6), 2477. https://doi.org/10.3390/su12062477
 
-Fraser, E., & van der Ven, H. (2022). Increasing transparency in global supply chains: The case of the fast fashion industry. *Sustainability, 14*(18), 11520. https://doi.org/10.3390/su141811520
+23. Latif, B., Mahmood, Z., Tze San, O., Mohd Said, R., & Bakhsh, A. (2020). Coercive, normative and mimetic pressures as drivers of environmental management accounting adoption. *Sustainability, 12*(11), 4506. https://doi.org/10.3390/su12114506
 
-Garcia-Torres, S., Rey-Garcia, M., & Albareda-Vivo, L. (2017). Effective disclosure in the fast-fashion industry: From sustainability reporting to action. *Sustainability, 9*(12), 2256. https://doi.org/10.3390/su9122256
+24. Álvarez-Etxeberria, I., Marco-Fondevila, M., & Zamora-Ramírez, C. (2023). Non-financial disclosure: Isomorphism effect in the face of new regulation. *Sustainability, 15*(11), 8493. https://doi.org/10.3390/su15118493
 
-Gatti, L., Seele, P., & Rademacher, L. (2019). Grey zone in—greenwash out: A review of greenwashing research and implications for the voluntary-mandatory transition of CSR. *International Journal of Corporate Social Responsibility, 4*, Article 6. https://doi.org/10.1186/s40991-019-0044-9
+25. Papa, M., Wieczorek-Kosmala, M., Losa, A., & Swałek, A. (2024). The impact of ESG regulation on environmental decoupling—An exploratory study on Polish listed companies. *Sustainability, 16*(17), 7309. https://doi.org/10.3390/su16177309
 
-H&M Group. (2022). *H&M Group sustainability disclosure 2022*. H&M Hennes & Mauritz AB. https://hmgroup.com
+26. Forliano, C., Battisti, E., de Bernardi, P., & Kliestik, T. (2025). Mapping the greenwashing research landscape: A theoretical and field analysis. *Review of Managerial Science, 19*, 3407–3456. https://doi.org/10.1007/s11846-025-00856-3
 
-H&M Group. (2023). *H&M Group sustainability disclosure 2023*. H&M Hennes & Mauritz AB. https://hmgroup.com
+27. Loko, A. G. S., & Schiehll, E. (2025). ESG policy–practice decoupling: A measurement framework and empirical validation. *Sustainability, 17*(3), 1203. https://doi.org/10.3390/su17031203
 
-H&M Group. (2024a). *H&M Group annual and sustainability report 2024*. H&M Hennes & Mauritz AB. https://hmgroup.com
+28. Janik, A., & Ryszko, A. (2026). Greenwashing in sustainability reporting: A systematic literature review of strategic typologies and content-analysis-based measurement approaches. *Sustainability, 18*(1), 17. https://doi.org/10.3390/su18010017
 
-H&M Group. (2024b). *H&M Group sustainability progress report 2024*. H&M Hennes & Mauritz AB. https://hmgroup.com
+29. Lee, H., & Lee, J. (2022). Industry competition, corporate governance, and voluntary disclosure of greenhouse gas emissions information: Evidence from South Korea. *International Journal of Environmental Research and Public Health, 19*(23), Article 16272. https://doi.org/10.3390/ijerph192316272
 
-H&M Group. (2025). *H&M Group annual and sustainability report 2025*. H&M Hennes & Mauritz AB. https://hmgroup.com
+30. Dhanjee, K., Sebastian, A., & Aucock, M. (2026). The United Nations Sustainable Development Goals and fast fashion companies' practices: An exploration of company disclosures and media reports. *South African Journal of Economic and Management Sciences, 29*(1), Article a6476. https://doi.org/10.4102/sajems.v29i1.6476
 
-Inditex. (2022). *Inditex Group annual report 2022*. Industria de Diseño Textil, S.A. https://www.inditex.com
+31. Asmussen, C. G., Fosfuri, A., Larsen, M. M., & Santangelo, G. D. (2023). Corporate social responsibility in the global value chain: A bargaining perspective. *Journal of International Business Studies, 54*, 1175–1192. https://doi.org/10.1057/s41267-023-00635-w
 
-Inditex. (2023). *Inditex Group annual report 2023*. Industria de Diseño Textil, S.A. https://www.inditex.com
+32. Bengtsson, M. (2016). How to plan and perform a qualitative study using content analysis. *NursingPlus Open, 2*, 8–14. https://doi.org/10.1016/j.npls.2016.01.001
 
-Inditex. (2024). *Inditex Group annual report 2024: Consolidated statement of non-financial information and sustainability information*. Industria de Diseño Textil, S.A. https://www.inditex.com
+33. Baxter, P., & Jack, S. (2008). Qualitative case study methodology: Study design and implementation for novice researchers. *The Qualitative Report, 13*(4), 544–559. https://doi.org/10.46743/2160-3715/2008.1573
 
-Inditex. (2025). *Inditex Group annual report 2025: Consolidated statement of non-financial information and sustainability information*. Industria de Diseño Textil, S.A. https://www.inditex.com
+34. Kibiswa, N. K. (2019). Directed qualitative content analysis (DQlCA): A tool for conflict analysis. *The Qualitative Report, 24*(8), 2059–2079. https://doi.org/10.46743/2160-3715/2019.3778
 
-Inês, A., Diniz, A., & Moreira, A. C. (2023). A review of greenwashing and supply chain management: Challenges ahead. *Cleaner Environmental Systems, 11*, 100136. https://doi.org/10.1016/j.cesys.2023.100136
+35. Morgan, H. (2022). Conducting a qualitative document analysis. *The Qualitative Report, 27*(1), 64–77. https://doi.org/10.46743/2160-3715/2022.5044
 
-Janik, A., & Ryszko, A. (2026). Greenwashing in sustainability reporting: A systematic literature review of strategic typologies and content-analysis-based measurement approaches. *Sustainability, 18*(1), 17. https://doi.org/10.3390/su18010017
+36. Changing Markets Foundation. (2023). *Synthetics anonymous 2.0: Fashion's persistent plastic problem*. https://changingmarkets.org/
 
-Kibiswa, N. K. (2019). Directed qualitative content analysis (DQlCA): A tool for conflict analysis. *The Qualitative Report, 24*(8), 2059–2079. https://doi.org/10.46743/2160-3715/2019.3778
+37. Elo, S., Kääriäinen, M., Kanste, O., Pölkki, T., Utriainen, K., & Kyngäs, H. (2014). Qualitative content analysis: A focus on trustworthiness. *SAGE Open, 4*(1), 1–10. https://doi.org/10.1177/2158244014522633
 
-Latif, B., Mahmood, Z., Tze San, O., Mohd Said, R., & Bakhsh, A. (2020). Coercive, normative and mimetic pressures as drivers of environmental management accounting adoption. *Sustainability, 12*(11), 4506. https://doi.org/10.3390/su12114506
+38. Wood, L. M., Sebar, B., & Vecchio, N. (2020). Application of rigour and credibility in qualitative document analysis: Lessons learnt from a case study. *The Qualitative Report, 25*(2), 456–470. https://doi.org/10.46743/2160-3715/2020.4240
 
-Lee, H., & Lee, J. (2022). Industry competition, corporate governance, and voluntary disclosure of greenhouse gas emissions information: Evidence from South Korea. *International Journal of Environmental Research and Public Health, 19*(23), Article 16272. https://doi.org/10.3390/ijerph192316272
+39. H&M Group. (2022). *H&M Group sustainability disclosure 2022*. H&M Hennes & Mauritz AB. https://hmgroup.com
 
-Loko, A. G. S., & Schiehll, E. (2025). ESG policy–practice decoupling: A measurement framework and empirical validation. *Sustainability, 17*(3), 1203. https://doi.org/10.3390/su17031203
+40. H&M Group. (2023). *H&M Group sustainability disclosure 2023*. H&M Hennes & Mauritz AB. https://hmgroup.com
 
-Manshoven, S., & Van Opstal, W. (2022). The carrot or the stick? Stakeholder support for mandatory regulations towards a circular fashion system. *Sustainability, 14*(22), 14671. https://doi.org/10.3390/su142214671
+41. H&M Group. (2025). *H&M Group annual and sustainability report 2025*. H&M Hennes & Mauritz AB. https://hmgroup.com
 
-Marquis, C., Toffel, M. W., & Zhou, Y. (2016). Scrutiny, norms, and selective disclosure: A global study of greenwashing. *Organization Science, 27*(2), 483–504. https://doi.org/10.1287/orsc.2015.1039
+42. Inditex. (2022). *Inditex Group annual report 2022*. Industria de Diseño Textil, S.A. https://www.inditex.com
 
-Montgomery, A. W., Lyon, T. P., & Barg, J. (2024). No end in sight? A greenwash review and research agenda. *Organization & Environment, 37*(2), 221–256. https://doi.org/10.1177/10860266231168905
+43. Inditex. (2023). *Inditex Group annual report 2023*. Industria de Diseño Textil, S.A. https://www.inditex.com
 
-Morgan, H. (2022). Conducting a qualitative document analysis. *The Qualitative Report, 27*(1), 64–77. https://doi.org/10.46743/2160-3715/2022.5044
+44. Inditex. (2024). *Inditex Group annual report 2024: Consolidated statement of non-financial information and sustainability information*. Industria de Diseño Textil, S.A. https://www.inditex.com
 
-Nemes, N., Scanlan, S. J., Smith, P., Smith, T., Aronczyk, M., Hill, S., Lewis, S. L., Montgomery, A. W., Tubiello, F. N., & Stabinsky, D. (2022). An integrated framework to assess greenwashing. *Sustainability, 14*(8), 4431. https://doi.org/10.3390/su14084431
+45. Inditex. (2025). *Inditex Group annual report 2025: Consolidated statement of non-financial information and sustainability information*. Industria de Diseño Textil, S.A. https://www.inditex.com
 
-Papa, M., Wieczorek-Kosmala, M., Losa, A., & Swałek, A. (2024). The impact of ESG regulation on environmental decoupling—An exploratory study on Polish listed companies. *Sustainability, 16*(17), 7309. https://doi.org/10.3390/su16177309
+46. H&M Group. (2024b). *H&M Group sustainability progress report 2024*. H&M Hennes & Mauritz AB. https://hmgroup.com
 
-Spaniol, M. J., Danilova-Jensen, E., Nielsen, M., Rosdahl, C. G., & Schmidt, C. J. (2024). Defining greenwashing: A concept analysis. *Sustainability, 16*(20), 9055. https://doi.org/10.3390/su16209055
+47. H&M Group. (2024a). *H&M Group annual and sustainability report 2024*. H&M Hennes & Mauritz AB. https://hmgroup.com
 
-Wood, L. M., Sebar, B., & Vecchio, N. (2020). Application of rigour and credibility in qualitative document analysis: Lessons learnt from a case study. *The Qualitative Report, 25*(2), 456–470. https://doi.org/10.46743/2160-3715/2020.4240
+48. Fashion Revolution. (2022). *Fashion transparency index 2022*. https://www.fashionrevolution.org/fashion-transparency-index/
 
-Wren, B. (2022). Sustainable supply chain management in the fast fashion industry: A comparative study of current efforts and best practices to address the climate crisis. *Cleaner Logistics and Supply Chain, 4*, 100032. https://doi.org/10.1016/j.clscn.2022.100032
+49. Fashion Revolution. (2023). *Fashion transparency index 2023*. https://www.fashionrevolution.org/fashion-transparency-index/
+
+50. Fashion Revolution. (2024). *What fuels fashion? 2024*. https://www.fashionrevolution.org/fashion-transparency-index/
