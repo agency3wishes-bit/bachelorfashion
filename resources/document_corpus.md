@@ -88,13 +88,21 @@ regulatory/industry backdrop, not the Literature Review.
 |---|---|---|---|---|---|
 | EU Strategy for Sustainable and Circular Textiles (COM(2022) 141 final) | European Commission | 30 March 2022 | https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A52022DC0141 | Confirmed (EUR-Lex + Commission PDF header) | Coercive-pressure context for RQ1; study-period framing |
 | Commitment decision for H&M regarding sustainability claims | Dutch Authority for Consumers and Markets (ACM) | September 2022 | https://www.acm.nl/en/publications/commitment-decision-handm-regarding-sustainability-claims | Confirmed (title, date, substance); ⚠ exact case/zaaknummer not found — do not cite a case number until independently verified | External-challenge context for RQ2 (H&M specifically); coercive-pressure context for RQ1 |
+| Fashion Transparency Index — 2023 edition (standard, 250 brands) | Fashion Revolution (UK-registered NGO) | 2023 | https://www.fashionrevolution.org/fashion-transparency-index/ (also mirrored via Issuu and Wikirate) | **PARTIAL** — WebFetch to the primary domain is blocked by this environment's proxy policy (confirmed via `curl $HTTPS_PROXY/__agentproxy/status`, `connect_rejected`/403 on `www.fashionrevolution.org`), so figures below rest on WebSearch snippet-level evidence cross-checked across 3+ independent queries, not a directly read primary PDF. H&M **71%**, Zara/Inditex **50%** (industry average 26%). Author should pull the primary `FTI-2023` PDF and pin an exact page/section before citing these numbers as verified in Ch.4/5. | Primary NGO triangulation source for RQ2 (selective-disclosure/transparency comparison) — the only edition in the study window with a comparably-scored figure for **both** firms |
+| Fashion Transparency Index — 2022 edition (standard, 250 brands) | Fashion Revolution | 2022 | https://www.fashionrevolution.org/fashion-transparency-index/ | **PARTIAL** (same access caveat as above). H&M **66%** (industry average 24%); Zara/Inditex 2022 score **could not be verified** — not found across multiple searches. | RQ2 context, H&M only — do not present as a cross-company comparison for this year |
+| "What Fuels Fashion?" 2024 &amp; 2025 (Fashion Revolution's narrower climate/energy-only successor editions; no standard full-scope Index was published for 2024 or 2025) | Fashion Revolution | 2024, 2025 | https://www.fashionrevolution.org/fashion-transparency-index/ | **PARTIAL/UNVERIFIED** (same access caveat). 2024: H&M 61% (industry avg. 18%), Inditex/Zara score not found. 2025: H&M ranked #1 of 200 at 71% (industry avg. 14%); one low-quality, single-sourced, year-ambiguous claim of Zara "51–60%" was found and is explicitly **rejected as unreliable** — do not cite it. | ⚠ Not usable for a cross-company RQ2 comparison in 2024/2025 (no reliable Inditex figure, and scope narrowed to climate/energy disclosure only, not the broad transparency scope scored in 2022/2023) — usable only as H&M-specific context, with the scope-narrowing explicitly flagged if used |
+| "Synthetics Anonymous" report series | Changing Markets Foundation | various, within study window | https://changingmarkets.org/ | **PARTIAL** (same access caveat; WebSearch-level only). Names H&M (highest rate of claims characterized by the report as misleading, ~96% per one source) and Inditex/Zara (highest synthetic-fibre sourcing volume) directly. | Secondary/supplementary EXTERNAL CHALLENGE source for RQ2 only — ⚠ this report is advocacy-toned and makes evaluative claims about specific companies; per `CLAUDE.md` §1's scope boundary (no assertions of wrongdoing/intent), any use of this source in Ch.4/5 must attribute its claims explicitly to the NGO ("Changing Markets Foundation characterizes X as...") rather than adopting them as the thesis's own finding, and must not be used to justify coding a passage as greenwashing beyond what the thesis's own document-based coding independently supports |
 
-⚠ **NGO/industry assessment for triangulation** (PROJECT_PLAN.md mentions "a few
-industry or NGO assessments" as a category, without naming specific ones yet) —
-**not selected**. Candidates such as the Fashion Revolution Transparency Index or
-Changing Markets Foundation reports were not searched/verified in this pass and
-are not proposed here; naming a specific NGO source is left for explicit author
-approval, consistent with not silently expanding the evidence base.
+**Verification status:** all five NGO/industry rows above are tagged PARTIAL or
+UNVERIFIED, not DIRECT, following the same verification-tag convention used in
+`research/source_notes/`. This is an environment constraint, not a source-quality
+problem: the proxy blocks direct fetch of `fashionrevolution.org` and
+`changingmarkets.org` (consistent with the publisher-domain blocking already
+documented in `PROJECT_PLAN.md` adaptation #2), so only WebSearch snippet-level
+verification was possible. Before any of these figures are quoted as a fixed number
+in Ch.4/5, the author should independently pull the primary PDF/webpage and confirm
+the exact figure and page/section — flagged here rather than silently upgraded to
+"Confirmed."
 
 ## Inclusion / exclusion criteria (draft, pending Section 3.3 finalisation)
 
@@ -114,7 +122,12 @@ approval, consistent with not silently expanding the evidence base.
 
 1. ✅ ~~Confirm or correct the Inditex 2022 and 2025 entries~~ — done, both in hand.
 2. ✅ ~~Upload all confirmed report PDFs~~ — done, both companies complete.
-3. Decide whether to include any NGO/industry assessment for triangulation, and if
-   so, which — do not assume one.
-4. Sign off on this table (final check, not a blocker) before Stage 9 pilot coding
-   begins in earnest.
+3. ✅ ~~Decide whether to include any NGO/industry assessment for triangulation~~ —
+   approved 2026-07-15; Fashion Transparency Index (primary) + Changing Markets
+   Foundation "Synthetics Anonymous" (secondary/supplementary) selected. **Still
+   outstanding:** the author (or a future session with unblocked network access)
+   should independently verify the PARTIAL-tagged figures above against the primary
+   PDFs before they are quoted as fixed numbers in Ch.4/5 — this environment's proxy
+   blocks direct fetch of both NGOs' domains.
+4. ✅ Corpus table signed off — Stage 9 (pilot) and Stage 10 (full coding) both
+   complete using this corpus; see `research/coding/`.
