@@ -93,21 +93,34 @@ the author is sending; APA 7 remains provisional until then.
    thesis) — see `resources/citation_style_notes.md`.
 4. ✅ Article PDFs + corporate report PDFs all in hand — see `resources/document_corpus.md`.
 5. ✅ FY2025 report titles confirmed for both companies — see `resources/document_corpus.md`.
-6. ⏳ Decide whether to include an NGO/industry assessment for triangulation — not
-   selected yet, author approval required (see `resources/document_corpus.md` §"External
-   / context documents").
-7. ⏳ `thesis/3_Methodology.md` §3.3 (Data Collection and Document Selection) still a
-   stub — now unblockable since the corpus is complete.
-8. ⏳ Stage 10 full coding produced 237 rows (122 H&M, 115 Inditex) plus two
-   cross-case synthesis matrices — ready to underpin Ch.4 (Results). Notable
-   cross-case findings worth flagging to the author before Ch.4 drafting begins:
-   (a) a recurring DISPROPORTIONAL EMPHASIS pattern (scope 1+2 vs. scope 3 framing)
-   found in both companies in some years; (b) Inditex's "Living Wages" Priority
-   Impact Area reports zero wage-outcome metrics in all 4 coded years (2022–2025),
-   the strongest PROPRIETARY WITHHOLDING candidate in the corpus, now confirmed
-   across the full period, not just the FY2024 pilot sample; (c) H&M's Biodiversity
-   disclosure stays SYMBOLIC across all 4 years with no Group-wide quantified KPI,
-   while Inditex's becomes fully quantified from 2024; (d) by the 2025 report,
-   Inditex's own ESRS materiality assessment excludes "Affected Communities" as a
-   material topic entirely. See `research/coding/cross_case_institutional_pressures.md`
-   and `research/coding/cross_case_competitive_disclosure.md` for full detail.
+6. ✅ NGO/industry assessment approved 2026-07-15 (Fashion Transparency Index primary,
+   Changing Markets Foundation secondary) — see `resources/document_corpus.md` §"External
+   / context documents" and `thesis/5_Discussion.md` §5.2 for how it is used, with its
+   PARTIAL-verification caveats carried throughout.
+7. ✅ `thesis/3_Methodology.md` §3.3 (Data Collection and Document Selection) drafted in full.
+8. ✅ Stage 10 full coding (237 rows: 122 H&M, 115 Inditex) plus two cross-case
+   synthesis matrices — underpins Ch.4 (Results) and Ch.5 (Discussion). Headline
+   cross-case findings (scope 1+2 vs. scope 3 DISPROPORTIONAL EMPHASIS in both firms
+   in some years; Inditex's "Living Wages" zero-wage-outcome-metric pattern across
+   all 4 years, the strongest PROPRIETARY WITHHOLDING candidate in the corpus; H&M's
+   SYMBOLIC Biodiversity disclosure throughout vs. Inditex's fully quantified
+   trajectory from 2024; Inditex's 2025 ESRS materiality exclusion of "Affected
+   Communities") are now written up in Ch.4/Ch.5 rather than pending — see
+   `research/coding/cross_case_institutional_pressures.md` and
+   `research/coding/cross_case_competitive_disclosure.md` for the full underlying detail.
+
+## Remaining items outside this session's authority
+
+- **NGO figure verification**: every Fashion Transparency Index / Changing Markets
+  Foundation figure used in `thesis/5_Discussion.md` is tagged PARTIAL, verified only
+  via WebSearch snippets because this environment's proxy blocks direct fetch of
+  both NGOs' domains (confirmed via `curl $HTTPS_PROXY/__agentproxy/status`). The
+  author (or a future session with unblocked network access) should independently
+  pull the primary PDFs and confirm the exact figures before they are treated as
+  settled in any final submission.
+- **Author sign-off**: `thesis/OUTLINE.md` and `resources/document_corpus.md` are
+  both marked as needing final author sign-off in their own header notes — this is
+  a human-judgment step, not a drafting task.
+- **Final read-through**: the thesis is complete and has passed the Stage 15 audit,
+  but a full human read-through before submission is still the author's own
+  responsibility, not a substitute this session can provide.
