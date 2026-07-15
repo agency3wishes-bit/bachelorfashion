@@ -62,6 +62,49 @@ author instruction:
   Salminen & Rajavuori, 2019; Hahn & Lülfs, 2014) were **not** added, since no genuine
   analytical need for them arose in executing the above.
 
+## Stage 17 (2026-07-15): primary-source verification of H&M page-cited claims
+
+The author pushed the six H&M Group primary report PDFs into the repo (Sustainability
+Disclosure 2022/2023, Progress Report 2024, Annual & Sustainability Report 2024/2025,
+plus the 2022 combined Annual Report). This lifted the long-standing hard dependency
+(playbook adaptation #3) that had kept the H&M coding grounded in the coding matrices
+rather than in directly-read primaries. A multi-agent verification pass (43 distinct
+H&M `(H&M Group, YEAR, p. X)` claims across Ch.4 and Ch.5, one agent per claim reading
+the cited PDF pages) checked every quoted string, every asserted number, and every
+cited page against the actual reports.
+
+**Result: 30 CONFIRMED, 12 PARTIAL, 1 MISMATCH, 0 UNVERIFIABLE — no fabricated
+evidence.** All 13 defects were corrected in place, each traced to a specific primary
+page. The substantive ones:
+- **Scorecards (MISMATCH, Ch.4 §4.4 / Ch.5 §5.3):** the thesis had scrambled the 2023
+  and 2024 third-party-scorecard details — the "11 companies" Leading figure is from
+  2024 (p.20), the "130 participating companies" from 2023 (p.15); CDP was A in 2024
+  but A− in 2023; the scorecards were mis-cited to pp.30–31 (they are on p.15; only the
+  Levi's Screened Chemistry comparison is on p.31). Untangled and re-grounded to the
+  correct year/page for each.
+- **Communities/grievance conflation (PARTIAL→fixed, Ch.4 §4.4, §4.5 / Ch.5 §5.2):** a
+  reconciled "38 raised / 33 resolved" grievance table had been attributed to Affected
+  communities (ESRS S3); it is in fact the national-monitoring-committee table for
+  Workers in the value chain (S2). Removed the misattribution; the affected-communities
+  "no targets" quote was also re-cited from pp.110–111 to its true page 112.
+- **Business conduct overreach (PARTIAL→fixed, Ch.4 §4.2):** the 2024 report does set
+  Business-conduct targets (corruption/bribery), so the "no targets" finding was
+  narrowed to Consumers and Affected communities for 2024, with Business conduct valid
+  only for 2025 (p.118 added to the cite).
+- **Minor but real:** effluent 90% is disclosed in narrative as well as the table (not
+  "only in the data table"); the "aims to deliver living wages" quote had dropped an
+  "s"; the minimum-wage quote had its clause order reversed; the biodiversity "no
+  targets" quote sits on p.87 not p.86 (cite widened to 86–87); the "only two sections
+  without a KPI table" count is accurate only under "no quantified progress figure at
+  all" (Own workforce has a 76/100 metric), so the wording was tightened; a
+  community-investment figure had been mislabelled as capital expenditure.
+
+**Not verifiable this pass — flagged for the author:** the four Inditex Annual Reports
+(2022–2025) are NOT in the repo, so every `(Inditex, YEAR, p. X)` claim in Ch.4/Ch.5
+remains grounded in the coding matrices only, not a directly-read primary. If the
+author uploads those PDFs, the identical verification pass should be run on the Inditex
+side before final submission.
+
 ## Stage status
 
 | # | Stage | Status | Output |
