@@ -22,9 +22,9 @@ What this literature has not yet supplied — the gap developed in full in Secti
 
 This thesis addresses that gap through two research questions:
 
-**RQ1:** How are coercive, normative, and mimetic institutional pressures reflected in the environmental communication of H&M Group and Inditex (2022–2025), and how do their corporate responses compare in terms of substantive, symbolic, or mixed conformity?
+**RQ1:** How do cross-border coercive, normative, and mimetic institutional pressures shape the environmental communication of H&M Group and Inditex (2022–2025), and how do their corporate responses compare in terms of substantive, symbolic, or mixed conformity?
 
-**RQ2:** What patterns of selective disclosure (e.g., omission, disproportional emphasis, inconsistent metrics) characterize the environmental communication of H&M Group and Inditex (2022–2025), and how do these patterns compare across the two firms in light of competitive pressure?
+**RQ2:** How is selective disclosure (e.g., omission, disproportional emphasis, inconsistent metrics) used as a legitimacy-seeking mechanism in the environmental communication of H&M Group and Inditex (2022–2025), and how do market competition and information asymmetry shape these patterns across the two firms?
 
 Institutional Theory serves as the primary theoretical lens: the triad of coercive, normative, and mimetic pressures structures RQ1 and anchors the analytical framework throughout. Legitimacy Theory, the concept of decoupling between policy and practice, and the construct of selective disclosure are used as supporting concepts — they specify the mechanisms through which institutional pressure may be converted into substantive change, symbolic conformity, or selectively framed communication, but they do not displace Institutional Theory as the organizing framework.
 

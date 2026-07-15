@@ -31,15 +31,18 @@ generic skill checklist on every point of conflict.
 - **Method:** Qualitative comparative multiple-case study; document analysis;
   directed qualitative content analysis (deductive codebook)
 - **Cases:** H&M Group and Inditex, reporting years 2022–2025
-- **Research questions (VERBATIM — never paraphrase; locked 2026-07-14):**
-  - RQ1: How are coercive, normative, and mimetic institutional pressures reflected in
-    the environmental communication of H&M Group and Inditex (2022–2025), and how do
-    their corporate responses compare in terms of substantive, symbolic, or mixed
-    conformity?
-  - RQ2: What patterns of selective disclosure (e.g., omission, disproportional
-    emphasis, inconsistent metrics) characterize the environmental communication of
-    H&M Group and Inditex (2022–2025), and how do these patterns compare across the
-    two firms in light of competitive pressure?
+- **Research questions (VERBATIM — never paraphrase; locked 2026-07-14, wording lightly
+  tightened 2026-07-15 to read closer to the author's supervisor-approved thesis-
+  proposal presentation, while preserving the comparative, firm-specific, evidence-
+  groundable structure the coded document analysis actually supports):**
+  - RQ1: How do cross-border coercive, normative, and mimetic institutional pressures
+    shape the environmental communication of H&M Group and Inditex (2022–2025), and
+    how do their corporate responses compare in terms of substantive, symbolic, or
+    mixed conformity?
+  - RQ2: How is selective disclosure (e.g., omission, disproportional emphasis,
+    inconsistent metrics) used as a legitimacy-seeking mechanism in the environmental
+    communication of H&M Group and Inditex (2022–2025), and how do market competition
+    and information asymmetry shape these patterns across the two firms?
 - **Theoretical lens:** Institutional Theory (PRIMARY and only main lens).
   Supporting concepts only: Legitimacy Theory, decoupling, selective disclosure.
 - **Scope boundary (critical):** The thesis analyses *communication patterns and
