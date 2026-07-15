@@ -170,20 +170,28 @@ the author is sending; APA 7 remains provisional until then.
 ## Remaining items outside this session's authority
 
 - **NGO figure verification (in progress, 2026-07-15):** author supplied text
-  extracts of the FTI 2022, FTI 2023, and "What Fuels Fashion?" (2024/2025) reports.
-  H&M's 2022 figure (66%, tied with The North Face and Timberland, industry average
-  24%) is now confirmed DIRECT against the primary text — a clean "TOP 10 SCORES IN
-  2022 (%)" table at p. 13 states it unambiguously; Zara/Inditex is confirmed absent
-  from that table (so below 54%) but no exact 2022 figure could be read. The 2023
-  H&M-71%/Zara-50% figure (the only year both firms are scored comparably) and the
-  2024/2025 figures remain PARTIAL: those editions present scores via bar/distribution
-  charts whose brand-to-percentage pairing was scrambled by PDF-to-text extraction
-  and could not be reconstructed reliably from text alone. **Still outstanding:** the
-  author should supply either the actual PDF files (readable with layout/vision
-  intact) or screenshots of the specific "highest/lowest scoring brands" chart pages
-  for FTI 2023 and both "What Fuels Fashion?" editions, and of the Changing Markets
-  Foundation "Synthetics Anonymous" report for the ~96%-of-H&M-claims figure, so
-  those can be confirmed the same way.
+  extracts of the FTI 2022, FTI 2023, and "What Fuels Fashion?" (2024/2025) reports,
+  plus a screenshot of the FTI 2023 Executive Summary chart pages (pp. 19–20).
+  Confirmed DIRECT so far:
+  - **H&M FTI 2022 = 66%** (tied with The North Face and Timberland; industry
+    average 24%) — "TOP 10 SCORES IN 2022 (%)" table, p. 13. Zara/Inditex confirmed
+    absent from that table (so below 54%), no exact 2022 figure readable.
+  - **H&M FTI 2023 = 71%** — Executive Summary "KEY RESULTS / Highest Scoring
+    Brands" chart, p. 19 (between United Colors of Benetton 73% and C&A 68%);
+    screenshot read directly. Industry average **26%** confirmed (p. 18, "Overall
+    average score across the 250 brands reviewed in 2023").
+  Still PARTIAL (WebSearch snippet-level only):
+  - **Zara/Inditex FTI 2023 = 50%** — a mid-pack score, so not shown on the p. 19
+    highest/lowest chart; needs the report's per-brand data table / raw dataset or a
+    Zara brand-profile page to confirm.
+  - **"What Fuels Fashion?" 2024/2025** H&M figures (61%; 71% / #1 of 200) and the
+    absence of a comparable Inditex figure — chart pages for these two editions not
+    yet supplied as screenshots.
+  - **Changing Markets Foundation "Synthetics Anonymous"** ~96%-of-H&M-claims figure
+    and Inditex "largest synthetic-fibre user" claim — report not yet supplied.
+  **Still outstanding:** author to supply the FTI 2023 raw-data table / Zara profile
+  page, screenshots of both "What Fuels Fashion?" chart pages, and the Changing
+  Markets report page(s), to close the remaining PARTIAL tags.
 - **Author sign-off**: `thesis/OUTLINE.md` and `resources/document_corpus.md` are
   both marked as needing final author sign-off in their own header notes — this is
   a human-judgment step, not a drafting task.
