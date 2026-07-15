@@ -32,17 +32,35 @@ presentation — Delmas & Burbano (2011), DiMaggio & Powell (1983), Marquis & To
   complements the §5.2 Living Wages/proprietary-withholding finding and the §5.4
   theoretical-implications summary.
 
-**Not yet resolved — flagged for the author, not actioned unilaterally:** the
-presentation's RQ wording (broader, industry-causal framing: "what drives... to
-greenwash," "how is selective disclosure used as a mechanism") differs from this
-thesis's locked RQ wording (comparative, firm-specific: "how are pressures reflected
-in H&M/Inditex's communication... how do responses compare"), and its stated study
-period ("3 Years") differs from the locked 2022–2025 (4 fiscal years) window. These
-may be an intentional, defensible refinement already implicit in how the thesis
-evolved past the presentation stage — but since the presentation was supervisor-
-approved, the author should confirm this evolution is expected/acceptable before
-final submission, rather than have it surface as a surprise inconsistency to the
-supervisor.
+**Resolved 2026-07-15 (author-directed):** RQ wording lightly tightened to read
+closer to the presentation's phrasing while keeping the comparative, firm-specific,
+evidence-groundable structure (see `CLAUDE.md` §1 and `thesis/1_Introduction.md`
+§1.2 for the exact locked text); study period reconfirmed at 4 years (2022–2025)
+after the author considered and reversed a 3-year alternative. Also actioned per
+author instruction:
+- **"Legitimacy gap" terminology** added in `thesis/2_Literature_Review.md` §2.4,
+  introduced explicitly as this thesis's own adopted label for the
+  legitimacy-performance divergence Bernini and La Rosa (2024) / Forliano et al.
+  (2025) already establish — not attributed to any specific approved source, since
+  no source note in the 33-source corpus was confirmed to use this exact term.
+- **Four-step "Integrated Conceptual Framework"** (Drivers → IB Filter → Strategy →
+  Outcome) now structures §2.7's closing synthesis paragraph, explicitly flagged as
+  this thesis's own synthesis rather than an externally cited model.
+- **H&M "Conscious" / Zara "Join Life" illustrative pair** added in three places,
+  using only real, already-coded evidence (no new research): `thesis/1_Introduction.md`
+  §1.1 (brief motivating illustration); `thesis/4_Results.md` §4.3 (surfaces the
+  Join Life 61%-vs-50%-commitment figure at Inditex, 2022, p. 187 — already in the
+  coding matrix but previously unused in the chapter prose — explicitly distinguished
+  from the adjacent INCONSISTENT METRIC coding, which concerns the "preferred fibres"
+  terminology realignment on the same page, not the Join Life figure itself);
+  `thesis/5_Discussion.md` §5.2 (paired interpretation contrasting H&M's Conscious-label
+  retirement under external pressure against Inditex's target-exceeding, unflagged
+  Join Life figure, read through Marquis, Toffel & Zhou's 2016 scrutiny-and-norms
+  mechanism).
+- Per author instruction, the remaining presentation-specific sources not already
+  in the corpus (Fletcher, 2014; McNeill & Moore, 2015; Fernández-Stark et al., 2022;
+  Salminen & Rajavuori, 2019; Hahn & Lülfs, 2014) were **not** added, since no genuine
+  analytical need for them arose in executing the above.
 
 ## Stage status
 
