@@ -20,7 +20,7 @@ results → discussion → final introduction → conclusion → abstract → fu
 | 10 | Full coding (4 matrices) | ✅ done | `research/coding/HM_coding_matrix_2022-2025.md`, `research/coding/Inditex_coding_matrix_2022-2025.md`, `research/coding/cross_case_institutional_pressures.md`, `research/coding/cross_case_competitive_disclosure.md` |
 | 11 | Results | ✅ done | `thesis/4_Results.md` |
 | 12 | Discussion | ✅ done | `thesis/5_Discussion.md` |
-| 13 | Conclusion | ⏳ | `thesis/6_Conclusion.md` |
+| 13 | Conclusion | ✅ done | `thesis/6_Conclusion.md` |
 | 14 | Introduction rewrite (final) | ⏳ | — |
 | 15 | Abstract (150–200 words) + full audit | ⏳ | — |
 
