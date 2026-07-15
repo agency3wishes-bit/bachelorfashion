@@ -169,13 +169,21 @@ the author is sending; APA 7 remains provisional until then.
 
 ## Remaining items outside this session's authority
 
-- **NGO figure verification**: every Fashion Transparency Index / Changing Markets
-  Foundation figure used in `thesis/5_Discussion.md` is tagged PARTIAL, verified only
-  via WebSearch snippets because this environment's proxy blocks direct fetch of
-  both NGOs' domains (confirmed via `curl $HTTPS_PROXY/__agentproxy/status`). The
-  author (or a future session with unblocked network access) should independently
-  pull the primary PDFs and confirm the exact figures before they are treated as
-  settled in any final submission.
+- **NGO figure verification (in progress, 2026-07-15):** author supplied text
+  extracts of the FTI 2022, FTI 2023, and "What Fuels Fashion?" (2024/2025) reports.
+  H&M's 2022 figure (66%, tied with The North Face and Timberland, industry average
+  24%) is now confirmed DIRECT against the primary text — a clean "TOP 10 SCORES IN
+  2022 (%)" table at p. 13 states it unambiguously; Zara/Inditex is confirmed absent
+  from that table (so below 54%) but no exact 2022 figure could be read. The 2023
+  H&M-71%/Zara-50% figure (the only year both firms are scored comparably) and the
+  2024/2025 figures remain PARTIAL: those editions present scores via bar/distribution
+  charts whose brand-to-percentage pairing was scrambled by PDF-to-text extraction
+  and could not be reconstructed reliably from text alone. **Still outstanding:** the
+  author should supply either the actual PDF files (readable with layout/vision
+  intact) or screenshots of the specific "highest/lowest scoring brands" chart pages
+  for FTI 2023 and both "What Fuels Fashion?" editions, and of the Changing Markets
+  Foundation "Synthetics Anonymous" report for the ~96%-of-H&M-claims figure, so
+  those can be confirmed the same way.
 - **Author sign-off**: `thesis/OUTLINE.md` and `resources/document_corpus.md` are
   both marked as needing final author sign-off in their own header notes — this is
   a human-judgment step, not a drafting task.
