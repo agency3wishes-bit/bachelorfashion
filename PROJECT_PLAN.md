@@ -13,7 +13,7 @@ results → discussion → final introduction → conclusion → abstract → fu
 | 3 | Literature Review Map | ✅ drafted | in `resources/approved_source_corpus.md` |
 | 4 | Document corpus (8 reports + external) | ⏳ | `resources/document_corpus.md` |
 | 5 | Final Table of Contents | ✅ drafted, needs sign-off | `thesis/OUTLINE.md` |
-| 6 | Introduction Draft 1 | ⏳ | `thesis/1_Introduction.md` |
+| 6 | Introduction Draft 1 | ✅ done (written last, after Ch.2–5, per author's staging) | `thesis/1_Introduction.md` |
 | 7 | Literature Review | ⏳ | `thesis/2_Literature_Review.md` |
 | 8 | Methodology (before coding) | ⏳ | `thesis/3_Methodology.md` |
 | 9 | Pilot coding → Codebook v2 | ✅ done | `research/coding/pilot_coding_report.md`, `research/coding/codebook_v2.md` |
