@@ -1,9 +1,5 @@
 # Chapter 4 — Results
 
-*Draft 1 — from the Stage 10 coding matrices, applying Codebook v2. Per `thesis/OUTLINE.md`
-and `CLAUDE.md` §2–4, this chapter reports empirical findings only — every claim carries a
-document, year, and page — and withholds interpretation for Chapter 5.*
-
 ### 4.1 Overview of the Document Corpus
 
 The findings draw on primary, company-published sustainability and annual reports for both firms across 2022–2025. For H&M Group: the Sustainability Disclosure 2022 and 2023, the Annual & Sustainability Report 2024 with its Sustainability Progress Report 2024, and the Annual & Sustainability Report 2025 (H&M Group, 2022; H&M Group, 2023; H&M Group, 2024; H&M Group, 2025). For Inditex: the sustainability sections of the Group Annual Report — the "Statement on Non-Financial Information" in 2022–2023, restructured as the "Consolidated Statement of Non-Financial Information and Sustainability Information" from 2024 (Inditex, 2022; Inditex, 2023; Inditex, 2024; Inditex, 2025). Coding produced 237 units across ten themes common to both firms — climate and emissions, water, chemicals and pollution, biodiversity, materials and circular economy, waste, own workforce, workers in the value chain, communities, and consumers — 122 from H&M and 115 from Inditex.

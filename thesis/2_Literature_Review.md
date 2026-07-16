@@ -1,12 +1,5 @@
 # Chapter 2 — Literature Review
 
-*Draft 1 — produced from research/source_notes/S01–S30 (snippet/abstract-level evidence;
-page numbers pending PDF upload, see resources/source_access_checklist.md), plus S31–S33
-(Delmas & Burbano 2011, DiMaggio & Powell 1983, Marquis, Toffel & Zhou 2016), added
-2026-07-15 at the author's request to align the thesis with foundational sources already
-shown to and approved by the supervisor in the thesis-proposal presentation. Subject to
-the CLAUDE.md decision-gate review before being treated as final.*
-
 ### 2.1 Conceptualizing Greenwashing
 
 Definitions of greenwashing converge on a core mismatch between a firm's environmental communication and its actual performance while diverging on scope and mechanism. Adamkiewicz et al. (2022) characterize it as falsely promoting environmental efforts or spending disproportionately more on green promotion than on genuine practice, whereas de Freitas Netto et al.'s (2020) systematic review establishes it as the co-occurrence of poor performance and positive, misleading communication and proposes a fourfold typology crossing level of analysis (firm- versus product-level) with communicative form—claim greenwashing operating through textual assertions, executional greenwashing through non-textual cues such as green palettes or nature imagery. Where these establish what greenwashing is, Delmas and Burbano (2011) address why it occurs, decomposing its drivers into external (institutional pressure from regulators and NGOs; market pressure from consumers, investors, and competitors), organizational, and individual levels, the last including optimistic bias; Sections 2.3 and 2.5 return to the external categories.

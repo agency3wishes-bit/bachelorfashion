@@ -2,7 +2,7 @@
 
 ### 7.1 Citation of Relevant Literature
 
-*APA 7th edition. Entries are numbered in order of first citation in the text, per the institutional template. Academic sources form the approved corpus; company reports and regulatory/NGO documents are the empirical and context sources. H&M Group's two 2024 documents are 2024a (Annual & Sustainability Report) and 2024b (Sustainability Progress Report).*
+*APA 7th edition. Entries are numbered in order of first citation in the text, per the institutional template. Academic sources form the study's scholarly corpus; company reports and regulatory/NGO documents are the empirical and context sources. H&M Group's two 2024 documents are 2024a (Annual & Sustainability Report) and 2024b (Sustainability Progress Report).*
 
 1. Bick, R., Halsey, E., & Ekenga, C. C. (2018). The global environmental injustice of fast fashion. *Environmental Health, 17*, Article 92. https://doi.org/10.1186/s12940-018-0433-7
 
