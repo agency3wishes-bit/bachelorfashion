@@ -8,9 +8,13 @@ generic skill checklist on every point of conflict.
 
 - **Institution:** Universität Wien (University of Vienna).
   **Supervisor:** Dr. Aveed Raha. Submission: Vienna, July 2026.
-- **Working title:** Greenwashing and Environmental Communication in Fast Fashion:
-  A Comparative Case Study of H&M Group and Inditex (2022–2025)
-  *(working — confirm against institutional template)*
+- **Title (confirmed 2026-07-15, matches the author's approved thesis-proposal
+  presentation):** Drivers of Greenwashing in the Fast Fashion Industry: Competitive
+  and Institutional Pressures in International Business
+  *(the earlier working title "Greenwashing and Environmental Communication in Fast
+  Fashion: A Comparative Case Study of H&M Group and Inditex (2022–2025)" is
+  superseded; the study still covers H&M Group and Inditex across 2022–2025 in the
+  body text)*
 - **Degree:** Bachelor's thesis, International Business
 - **Formatting (per official template, confirmed 2026-07-14):** Times New Roman 12pt;
   1.5 line spacing; 1-inch margins on all sides; decimal-numbered headings (1, 1.1, 1.2 …)

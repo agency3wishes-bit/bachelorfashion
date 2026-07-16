@@ -12,7 +12,7 @@ Title of the Bachelor's Thesis
 
 &nbsp;
 
-## Greenwashing and Environmental Communication in Fast Fashion: A Comparative Case Study of H&M Group and Inditex (2022–2025)
+## Drivers of Greenwashing in the Fast Fashion Industry: Competitive and Institutional Pressures in International Business
 
 &nbsp;
 
