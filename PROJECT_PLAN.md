@@ -157,7 +157,7 @@ Content was already complete; this stage assembled the submission document.
 - `thesis/THESIS_FINAL.md` — single assembled manuscript matching the Universität Wien
   template: title page (bilingual "verfasst von / submitted by", "Betreut von /
   Supervisor" layout) → Acknowledgments/Declaration placeholders → Abstract → ToC (with
-  decimal numbering) → List of Figures → List of Tables → Ch.1–6 → §7 References. Chapter
+  decimal numbering) → Ch.1–6 → §7 References. Chapter
   headings converted to the template's decimal style ("1 Introduction" … "7 References",
   no "Chapter N —" prefix); per-chapter internal draft notes stripped. ~22,200 words.
   The thesis's own specific heading titles are retained — the template explicitly permits

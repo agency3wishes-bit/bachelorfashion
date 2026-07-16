@@ -84,22 +84,7 @@ Abstract
 &nbsp;&nbsp;&nbsp;&nbsp;5.6 Limitations and Future Research
 6 Conclusion
 
-List of Figures
-List of Tables
-
 7 References
-
----
-
-# List of Figures
-
-None.
-
----
-
-# List of Tables
-
-None.
 
 ---
 
